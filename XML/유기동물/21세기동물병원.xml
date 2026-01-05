@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+    <header>
+        <reqNo>16338150</reqNo>
+        <resultCode>00</resultCode>
+        <resultMsg>NORMAL SERVICE.</resultMsg>
+    </header>
+    <body>
+        <items>
+            <item>
+                <desertionNo>445464202103659</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2021/12/202112170912596_s.jpg</filename>
+                <happenDt>20211217</happenDt>
+                <happenPlace>송천동 백제빌딩앞</happenPlace>
+                <kindCd>[개] 치와와</kindCd>
+                <colorCd>검정,흰색</colorCd>
+                <age>2016(년생)</age>
+                <weight>5.2(Kg)</weight>
+                <noticeNo>전북-전주-2021-02113</noticeNo>
+                <noticeSdt>20211217</noticeSdt>
+                <noticeEdt>20211227</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2021/12/202112170912596.jpg</popfile>
+                <processState>종료(반환)</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>Y</neuterYn>
+                <specialMark>온순하고 눈물자국있음</specialMark>
+                <careNm>21세기동물병원</careNm>
+                <careTel>063-251-1015</careTel>
+                <careAddr>전라북도 전주시 덕진구 송천동1가 626-42</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202103653</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2021/12/202112161412367_s.jpg</filename>
+                <happenDt>20211216</happenDt>
+                <happenPlace>솔내 6길 41 숲속빌</happenPlace>
+                <kindCd>[개] 스피츠</kindCd>
+                <colorCd>흰색</colorCd>
+                <age>2019(년생)</age>
+                <weight>6.7(Kg)</weight>
+                <noticeNo>전북-전주-2021-02108</noticeNo>
+                <noticeSdt>20211216</noticeSdt>
+                <noticeEdt>20211227</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2021/12/202112161412367.jpg</popfile>
+                <processState>종료(반환)</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>Y</neuterYn>
+                <specialMark>온순, 기본 미용 되어있음</specialMark>
+                <careNm>21세기동물병원</careNm>
+                <careTel>063-251-1015</careTel>
+                <careAddr>전라북도 전주시 덕진구 송천동1가 626-42</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202103596</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2021/11/202112021912261_s.jpg</filename>
+                <happenDt>20211202</happenDt>
+                <happenPlace>상리6길 9-12</happenPlace>
+                <kindCd>[개] 믹스견</kindCd>
+                <colorCd>베이지색</colorCd>
+                <age>2017(년생)</age>
+                <weight>6.4(Kg)</weight>
+                <noticeNo>전북-전주-2021-02051</noticeNo>
+                <noticeSdt>20211202</noticeSdt>
+                <noticeEdt>20211213</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2021/11/202112021912261.jpg</popfile>
+                <processState>보호중</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>보행이상,상태불량</specialMark>
+                <careNm>21세기동물병원</careNm>
+                <careTel>063-251-1015</careTel>
+                <careAddr>전라북도 전주시 덕진구 송천동1가 626-42</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202103595</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2021/11/202112021412745_s.jpg</filename>
+                <happenDt>20211202</happenDt>
+                <happenPlace>팔복동 워시존앞</happenPlace>
+                <kindCd>[개] 믹스견</kindCd>
+                <colorCd>밤색,흰색</colorCd>
+                <age>2021(년생)</age>
+                <weight>1.24(Kg)</weight>
+                <noticeNo>전북-전주-2021-02050</noticeNo>
+                <noticeSdt>20211202</noticeSdt>
+                <noticeEdt>20211213</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2021/11/202112021412745.jpg</popfile>
+                <processState>종료(입양)</processState>
+                <sexCd>F</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>온순</specialMark>
+                <careNm>21세기동물병원</careNm>
+                <careTel>063-251-1015</careTel>
+                <careAddr>전라북도 전주시 덕진구 송천동1가 626-42</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202103592</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2021/11/202112011812443_s.jpg</filename>
+                <happenDt>20211201</happenDt>
+                <happenPlace>송천동 에코시티근처 돈까스집주변</happenPlace>
+                <kindCd>[개] 믹스견</kindCd>
+                <colorCd>검정,갈색</colorCd>
+                <age>2017(년생)</age>
+                <weight>5.7(Kg)</weight>
+                <noticeNo>전북-전주-2021-02047</noticeNo>
+                <noticeSdt>20211201</noticeSdt>
+                <noticeEdt>20211210</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2021/11/202112011812443.jpg</popfile>
+                <processState>종료(반환)</processState>
+                <sexCd>F</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>녹색목걸이하고 있고 온순</specialMark>
+                <careNm>21세기동물병원</careNm>
+                <careTel>063-251-1015</careTel>
+                <careAddr>전라북도 전주시 덕진구 송천동1가 626-42</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+        </items>
+        <numOfRows>10</numOfRows>
+        <pageNo>1</pageNo>
+        <totalCount>5</totalCount>
+    </body>
+</response>

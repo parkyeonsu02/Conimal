@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rfcOpenApi>
+    <header>
+        <resultCode>00</resultCode>
+        <resultMsg>success</resultMsg>
+    </header>
+    <body>
+        <numOfRows>5000</numOfRows>
+        <pageIndex>0</pageIndex>
+        <pageNo>1</pageNo>
+        <totalCount>52</totalCount>
+        <data>
+            <list>
+                <apiDongName>홍 동물병원</apiDongName>
+                <apiLat>063-284-6520</apiLat>
+                <apiLng>35.811473</apiLng>
+                <apiNewAddress>완산구 팔달로 99-2 (전동)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>1</apiSid>
+                <apiTel>127.149248</apiTel>
+            </list>
+            <list>
+                <apiDongName>초원 동물병원</apiDongName>
+                <apiLat>063-254-3266</apiLat>
+                <apiLng>35.828058</apiLng>
+                <apiNewAddress>완산구 팔달로 286-11 (서노송동)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>2</apiSid>
+                <apiTel>127.142995</apiTel>
+            </list>
+            <list>
+                <apiDongName>푸른 동물병원</apiDongName>
+                <apiLat>063-284-9491</apiLat>
+                <apiLng>35.871762</apiLng>
+                <apiNewAddress>덕진구 쪽구름로 71-2 (반월동)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>3</apiSid>
+                <apiTel>127.076161</apiTel>
+            </list>
+            <list>
+                <apiDongName>박영재 동물병원</apiDongName>
+                <apiLat>063-284-7774</apiLat>
+                <apiLng>35.810075</apiLng>
+                <apiNewAddress>완산구 전주천서로 111 (서서학동)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>4</apiSid>
+                <apiTel>127.149174</apiTel>
+            </list>
+            <list>
+                <apiDongName>아리랑 동물병원</apiDongName>
+                <apiLat>063-223-5311</apiLat>
+                <apiLng>35.811553</apiLng>
+                <apiNewAddress>완산구 서원로 294 (중화산동2가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>5</apiSid>
+                <apiTel>127.126475</apiTel>
+            </list>
+            <list>
+                <apiDongName>효자 동물병원</apiDongName>
+                <apiLat>063-224-6672</apiLat>
+                <apiLng>35.803737</apiLng>
+                <apiNewAddress>완산구 백제대로 121 (효자동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>6</apiSid>
+                <apiTel>127.12375</apiTel>
+            </list>
+            <list>
+                <apiDongName>우리동물병원</apiDongName>
+                <apiLat>063-226-3333</apiLat>
+                <apiLng>35.806139</apiLng>
+                <apiNewAddress>완산구 용머리로 86 (효자동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>7</apiSid>
+                <apiTel>127.119431</apiTel>
+            </list>
+            <list>
+                <apiDongName>서신 동물병원</apiDongName>
+                <apiLat>063-253-2747</apiLat>
+                <apiLng>35.828346</apiLng>
+                <apiNewAddress>완산구 서신로 33 (서신동)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>8</apiSid>
+                <apiTel>127.115589</apiTel>
+            </list>
+            <list>
+                <apiDongName>동부 동물병원</apiDongName>
+                <apiLat>063-231-2456</apiLat>
+                <apiLng>35.820966</apiLng>
+                <apiNewAddress>완산구 기린대로 139 (경원동3가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>9</apiSid>
+                <apiTel>127.15209</apiTel>
+            </list>
+            <list>
+                <apiDongName>전주김제완주축협 </apiDongName>
+                <apiLat>063-240-2888</apiLat>
+                <apiLng>35.856633</apiLng>
+                <apiNewAddress>덕진구 동부대로 769 (호성동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>10</apiSid>
+                <apiTel>127.15635</apiTel>
+            </list>
+            <list>
+                <apiDongName>21세기 종합동물병원</apiDongName>
+                <apiLat>063-251-7588</apiLat>
+                <apiLng>35.861518</apiLng>
+                <apiNewAddress>덕진구 시천로 26 (송천동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>11</apiSid>
+                <apiTel>127.11491</apiTel>
+            </list>
+            <list>
+                <apiDongName>행복한 동물병원</apiDongName>
+                <apiLat>063-244-0090</apiLat>
+                <apiLng>35.8348</apiLng>
+                <apiNewAddress>덕진구 건산로 243 (인후동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>12</apiSid>
+                <apiTel>127.163598</apiTel>
+            </list>
+            <list>
+                <apiDongName>프렌즈동물병원</apiDongName>
+                <apiLat>063-227-4975</apiLat>
+                <apiLng>35.799965</apiLng>
+                <apiNewAddress>완산구 거마평로 86 (삼천동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>13</apiSid>
+                <apiTel>127.117054</apiTel>
+            </list>
+            <list>
+                <apiDongName>하나 동물병원</apiDongName>
+                <apiLat>063-253-9677</apiLat>
+                <apiLng>35.858605</apiLng>
+                <apiNewAddress>덕진구 송천중앙로 129 (송천동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>14</apiSid>
+                <apiTel>127.120788</apiTel>
+            </list>
+            <list>
+                <apiDongName>늘푸른 동물병원</apiDongName>
+                <apiLat>063-281-0075</apiLat>
+                <apiLng>35.816901</apiLng>
+                <apiNewAddress>완산구 충경로 11 (다가동3가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>15</apiSid>
+                <apiTel>127.140714</apiTel>
+            </list>
+            <list>
+                <apiDongName>스누피 동물병원</apiDongName>
+                <apiLat>063-241-7275</apiLat>
+                <apiLng>35.836178</apiLng>
+                <apiNewAddress>덕진구 안덕원로 238 (인후동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>16</apiSid>
+                <apiTel>127.153047</apiTel>
+            </list>
+            <list>
+                <apiDongName>전북 동물병원</apiDongName>
+                <apiLat>063-255-4567</apiLat>
+                <apiLng>35.830821</apiLng>
+                <apiNewAddress>덕진구 기린대로 284 (진북동)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>17</apiSid>
+                <apiTel>127.141205</apiTel>
+            </list>
+            <list>
+                <apiDongName>수종합24시 동물병원</apiDongName>
+                <apiLat>063-273-7272</apiLat>
+                <apiLng>35.828815</apiLng>
+                <apiNewAddress>완산구 백제대로 400 (서신동)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>18</apiSid>
+                <apiTel>127.123087</apiTel>
+            </list>
+            <list>
+                <apiDongName>푸른하늘 동물병원</apiDongName>
+                <apiLat>063-222-4119</apiLat>
+                <apiLng>35.789173</apiLng>
+                <apiNewAddress>완산구 모악로 4704 (평화동2가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>19</apiSid>
+                <apiTel>127.131432</apiTel>
+            </list>
+            <list>
+                <apiDongName>송 동물의료센터</apiDongName>
+                <apiLat>063-247-6677</apiLat>
+                <apiLng>35.833803</apiLng>
+                <apiNewAddress>덕진구 견훤로 247 (인후동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>20</apiSid>
+                <apiTel>127.157532</apiTel>
+            </list>
+            <list>
+                <apiDongName>이엘 동물병원</apiDongName>
+                <apiLat>063-283-6364</apiLat>
+                <apiLng>35.801348</apiLng>
+                <apiNewAddress>완산구 장승배기로 321 (서서학동)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>21</apiSid>
+                <apiTel>127.146192</apiTel>
+            </list>
+            <list>
+                <apiDongName>엔젤동물병원</apiDongName>
+                <apiLat>063-244-7509</apiLat>
+                <apiLng>35.844906</apiLng>
+                <apiNewAddress>덕진구 견훤로 378 (우아동3가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>22</apiSid>
+                <apiTel>127.153596</apiTel>
+            </list>
+            <list>
+                <apiDongName>마루 동물병원</apiDongName>
+                <apiLat>063-276-7500</apiLat>
+                <apiLng>35.841537</apiLng>
+                <apiNewAddress>덕진구 기린대로 467 (덕진동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>23</apiSid>
+                <apiTel>127.126202</apiTel>
+            </list>
+            <list>
+                <apiDongName>모래내 동물병원</apiDongName>
+                <apiLat>063-274-7500</apiLat>
+                <apiLng>35.83391</apiLng>
+                <apiNewAddress>덕진구 안덕원로 165 (인후동2가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>24</apiSid>
+                <apiTel>127.145909</apiTel>
+            </list>
+            <list>
+                <apiDongName>바우동물병원</apiDongName>
+                <apiLat>063-243-3200</apiLat>
+                <apiLng>35.854443</apiLng>
+                <apiNewAddress>덕진구 견훤로 491 (우아동3가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>25</apiSid>
+                <apiTel>127.155078</apiTel>
+            </list>
+            <list>
+                <apiDongName>웰동물병원</apiDongName>
+                <apiLat>063-227-8275</apiLat>
+                <apiLng>35.813358</apiLng>
+                <apiNewAddress>완산구 서원로 72 (효자동2가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>26</apiSid>
+                <apiTel>127.102366</apiTel>
+            </list>
+            <list>
+                <apiDongName>대영동물병원</apiDongName>
+                <apiLat>063-246-7155</apiLat>
+                <apiLng>35.842423</apiLng>
+                <apiNewAddress>덕진구 동부대로 582 (산정동)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>27</apiSid>
+                <apiTel>127.167182</apiTel>
+            </list>
+            <list>
+                <apiDongName>펫동물병원</apiDongName>
+                <apiLat>063-221-7582</apiLat>
+                <apiLng>35.807696</apiLng>
+                <apiNewAddress>완산구 거마평로 162, 101호(효자동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>28</apiSid>
+                <apiTel>127.116758</apiTel>
+            </list>
+            <list>
+                <apiDongName>아프리카 동물병원</apiDongName>
+                <apiLat>063-247-8874</apiLat>
+                <apiLng>35.825511</apiLng>
+                <apiNewAddress>덕진구 아중로 142 (인후동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>29</apiSid>
+                <apiTel>127.165301</apiTel>
+            </list>
+            <list>
+                <apiDongName>힐링동물병원</apiDongName>
+                <apiLat>063-272-8575</apiLat>
+                <apiLng>35.862772</apiLng>
+                <apiNewAddress>덕진구 송천중앙로 177 (송천동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>30</apiSid>
+                <apiTel>127.121241</apiTel>
+            </list>
+            <list>
+                <apiDongName>전주동물병원</apiDongName>
+                <apiLat>063-255-0630</apiLat>
+                <apiLng>35.832154</apiLng>
+                <apiNewAddress>완산구 세내로 509-1 (효자동3가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>31</apiSid>
+                <apiTel>127.10284</apiTel>
+            </list>
+            <list>
+                <apiDongName>유앤아이동물병원</apiDongName>
+                <apiLat>063-275-7553</apiLat>
+                <apiLng>35.834122</apiLng>
+                <apiNewAddress>완산구 온고을로 102 (서신동)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>32</apiSid>
+                <apiTel>127.111728</apiTel>
+            </list>
+            <list>
+                <apiDongName>웨스턴 동물병원</apiDongName>
+                <apiLat>063-222-7275</apiLat>
+                <apiLng>35.817696</apiLng>
+                <apiNewAddress>완산구 홍산북로 11-3 (효자동2가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>33</apiSid>
+                <apiTel>127.102759</apiTel>
+            </list>
+            <list>
+                <apiDongName>코끼리 동물병원</apiDongName>
+                <apiLat>063-902-7975</apiLat>
+                <apiLng>35.795037</apiLng>
+                <apiNewAddress>완산구 모악로 4769 (평화동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>34</apiSid>
+                <apiTel>127.132154</apiTel>
+            </list>
+            <list>
+                <apiDongName>데이지동물병원</apiDongName>
+                <apiLat>063-225-7588</apiLat>
+                <apiLng>35.807712</apiLng>
+                <apiNewAddress>완산구 거마평로 170 (효자동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>35</apiSid>
+                <apiTel>127.116404</apiTel>
+            </list>
+            <list>
+                <apiDongName>하트동물병원</apiDongName>
+                <apiLat>063-276-7675</apiLat>
+                <apiLng>35.8648</apiLng>
+                <apiNewAddress>덕진구 두간1길 5 (송천동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>36</apiSid>
+                <apiTel>127.121263</apiTel>
+            </list>
+            <list>
+                <apiDongName>메이동물메디컬센터</apiDongName>
+                <apiLat>063-285-7975</apiLat>
+                <apiLng>35.812316</apiLng>
+                <apiNewAddress>완산구 백제대로 218 (중화산동2가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>37</apiSid>
+                <apiTel>127.123623</apiTel>
+            </list>
+            <list>
+                <apiDongName>이지동물병원</apiDongName>
+                <apiLat>063-211-6677</apiLat>
+                <apiLng>35.874088</apiLng>
+                <apiNewAddress>덕진구 쪽구름2길 16-2 (동산동)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>38</apiSid>
+                <apiTel>127.076178</apiTel>
+            </list>
+            <list>
+                <apiDongName>닥터펫동물병원</apiDongName>
+                <apiLat>063-272-0075</apiLat>
+                <apiLng>35.826877</apiLng>
+                <apiNewAddress>완산구 백제대로 378 (서신동)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>39</apiSid>
+                <apiTel>127.123031</apiTel>
+            </list>
+            <list>
+                <apiDongName>동물치유쉼터</apiDongName>
+                <apiLat>063-281-6740</apiLat>
+                <apiLng>35.8561</apiLng>
+                <apiNewAddress>덕진구 소리로 68(덕진동1가, 전주동물원)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>40</apiSid>
+                <apiTel>127.144653</apiTel>
+            </list>
+            <list>
+                <apiDongName>혁신동물병원</apiDongName>
+                <apiLat>063-229-5333</apiLat>
+                <apiLng>35.838644</apiLng>
+                <apiNewAddress>덕진구 기지로 72 (중동)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>41</apiSid>
+                <apiTel>127.061156</apiTel>
+            </list>
+            <list>
+                <apiDongName>스마일동물병원</apiDongName>
+                <apiLat>063-273-1202</apiLat>
+                <apiLng>35.865166</apiLng>
+                <apiNewAddress>덕진구 천마산로 65(송천동2가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>42</apiSid>
+                <apiTel>127.128262</apiTel>
+            </list>
+            <list>
+                <apiDongName>24시 올리몰스 </apiDongName>
+                <apiLat>063-275-7979</apiLat>
+                <apiLng>35.866198</apiLng>
+                <apiNewAddress>덕진구 송천중앙로 213 (송천동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>43</apiSid>
+                <apiTel>127.121137</apiTel>
+            </list>
+            <list>
+                <apiDongName>더펫 동물병원</apiDongName>
+                <apiLat>063-247-7566</apiLat>
+                <apiLng>35.813536</apiLng>
+                <apiNewAddress>덕진구 한배미1길 61 (인후동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>44</apiSid>
+                <apiTel>127.112779</apiTel>
+            </list>
+            <list>
+                <apiDongName>더펫동물병원</apiDongName>
+                <apiLat>1599-8764</apiLat>
+                <apiLng>35.813606</apiLng>
+                <apiNewAddress>완산구 서원로 168 (효자동2가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>45</apiSid>
+                <apiTel>127.112886</apiTel>
+            </list>
+            <list>
+                <apiDongName>코끼리동물병원</apiDongName>
+                <apiLat>063-902-7975</apiLat>
+                <apiLng>35.819404</apiLng>
+                <apiNewAddress>완산구 중화산로 100 (중화산동2가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>46</apiSid>
+                <apiTel>127.118309</apiTel>
+            </list>
+            <list>
+                <apiDongName>하루동물병원</apiDongName>
+                <apiLat>063-232-5900</apiLat>
+                <apiLng>35.788506</apiLng>
+                <apiNewAddress>완산구 모악로 4692 (평화동2가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>47</apiSid>
+                <apiTel>127.130933</apiTel>
+            </list>
+            <list>
+                <apiDongName>사랑플러스 동물병원</apiDongName>
+                <apiLat></apiLat>
+                <apiLng>35.873501</apiLng>
+                <apiNewAddress>덕진구 쪽구름2길 3 (반월동)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>48</apiSid>
+                <apiTel>127.075473</apiTel>
+            </list>
+            <list>
+                <apiDongName>MVP동물병원</apiDongName>
+                <apiLat>063-227-8575</apiLat>
+                <apiLng>35.815593</apiLng>
+                <apiNewAddress>?완산구 세내로 285 (송천1동)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>49</apiSid>
+                <apiTel>127.111458</apiTel>
+            </list>
+            <list>
+                <apiDongName>에코동물병원</apiDongName>
+                <apiLat>063-251-7975</apiLat>
+                <apiLng>35.873951</apiLng>
+                <apiNewAddress>덕진구 세병로 41 (송천동2가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>50</apiSid>
+                <apiTel>127.130323</apiTel>
+            </list>
+            <list>
+                <apiDongName>자스민동물병원</apiDongName>
+                <apiLat>063-276-3939</apiLat>
+                <apiLng>35.871039</apiLng>
+                <apiNewAddress>덕진구 백석로 18</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>51</apiSid>
+                <apiTel>127.136575</apiTel>
+            </list>
+            <list>
+                <apiDongName>더펫동물병원</apiDongName>
+                <apiLat></apiLat>
+                <apiLng>35.813432</apiLng>
+                <apiNewAddress>?완산구 서원로 168?</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2.0200831E7</apiRegDate>
+                <apiSid>52</apiSid>
+                <apiTel>127.112875</apiTel>
+            </list>
+        </data>
+    </body>
+</rfcOpenApi>

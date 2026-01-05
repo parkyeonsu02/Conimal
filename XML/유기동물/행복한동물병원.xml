@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+    <header>
+        <reqNo>16338287</reqNo>
+        <resultCode>00</resultCode>
+        <resultMsg>NORMAL SERVICE.</resultMsg>
+    </header>
+    <body>
+        <items>
+            <item>
+                <desertionNo>445464202103707</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2021/12/202112291912205_s.jpg</filename>
+                <happenDt>20211229</happenDt>
+                <happenPlace>아중대우1차아파트</happenPlace>
+                <kindCd>[고양이] 한국 고양이</kindCd>
+                <colorCd>흰색갈색</colorCd>
+                <age>2021(년생)</age>
+                <weight>1(Kg)</weight>
+                <noticeNo>전북-전주-2021-02161</noticeNo>
+                <noticeSdt>20211229</noticeSdt>
+                <noticeEdt>20220107</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2021/12/202112291912205.jpg</popfile>
+                <processState>종료(입양)</processState>
+                <sexCd>F</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>이동장 안에 있었음</specialMark>
+                <careNm>행복한동물병원</careNm>
+                <careTel>063-244-0090</careTel>
+                <careAddr>전라북도 전주시 덕진구 인후동1가 806-6</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202103706</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2021/12/202112282012804_s.jpg</filename>
+                <happenDt>20211228</happenDt>
+                <happenPlace>아중현대아파트</happenPlace>
+                <kindCd>[개] 믹스견</kindCd>
+                <colorCd>흰색</colorCd>
+                <age>2019(년생)</age>
+                <weight>16(Kg)</weight>
+                <noticeNo>전북-전주-2021-02160</noticeNo>
+                <noticeSdt>20211228</noticeSdt>
+                <noticeEdt>20220106</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2021/12/202112282012804.jpg</popfile>
+                <processState>보호중</processState>
+                <sexCd>F</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>비틀거림</specialMark>
+                <careNm>행복한동물병원</careNm>
+                <careTel>063-244-0090</careTel>
+                <careAddr>전라북도 전주시 덕진구 인후동1가 806-6</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202103705</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2021/12/202112282012276_s.jpg</filename>
+                <happenDt>20211228</happenDt>
+                <happenPlace>어은골 2길 13</happenPlace>
+                <kindCd>[개] 믹스견</kindCd>
+                <colorCd>검갈색</colorCd>
+                <age>2021(년생)</age>
+                <weight>1.3(Kg)</weight>
+                <noticeNo>전북-전주-2021-02159</noticeNo>
+                <noticeSdt>20211228</noticeSdt>
+                <noticeEdt>20220106</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2021/12/202112282012276.jpg</popfile>
+                <processState>종료(입양)</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>온순함</specialMark>
+                <careNm>행복한동물병원</careNm>
+                <careTel>063-244-0090</careTel>
+                <careAddr>전라북도 전주시 덕진구 인후동1가 806-6</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202103698</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2021/12/202112271712560_s.jpg</filename>
+                <happenDt>20211227</happenDt>
+                <happenPlace>진북동 전주시온성교회주변</happenPlace>
+                <kindCd>[개] 믹스견</kindCd>
+                <colorCd>흰색</colorCd>
+                <age>2019(년생)</age>
+                <weight>5(Kg)</weight>
+                <noticeNo>전북-전주-2021-02152</noticeNo>
+                <noticeSdt>20211227</noticeSdt>
+                <noticeEdt>20220105</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2021/12/202112271712560.jpg</popfile>
+                <processState>종료(반환)</processState>
+                <sexCd>F</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>교통사고 후지파행</specialMark>
+                <careNm>행복한동물병원</careNm>
+                <careTel>063-244-0090</careTel>
+                <careAddr>전라북도 전주시 덕진구 인후동1가 806-6</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202103697</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2021/12/202112271712294_s.jpg</filename>
+                <happenDt>20211227</happenDt>
+                <happenPlace>따박골 6길 29 주변</happenPlace>
+                <kindCd>[고양이] 한국 고양이</kindCd>
+                <colorCd>흰색검정</colorCd>
+                <age>2020(년생)</age>
+                <weight>3.5(Kg)</weight>
+                <noticeNo>전북-전주-2021-02151</noticeNo>
+                <noticeSdt>20211227</noticeSdt>
+                <noticeEdt>20220105</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2021/12/202112271712294.jpg</popfile>
+                <processState>종료(자연사)</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>교통사고,전지부종</specialMark>
+                <careNm>행복한동물병원</careNm>
+                <careTel>063-244-0090</careTel>
+                <careAddr>전라북도 전주시 덕진구 인후동1가 806-6</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202103695</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2021/12/202112241912269_s.jpg</filename>
+                <happenDt>20211224</happenDt>
+                <happenPlace>전진로 도로변</happenPlace>
+                <kindCd>[개] 믹스견</kindCd>
+                <colorCd>검갈색</colorCd>
+                <age>2021(년생)</age>
+                <weight>1.5(Kg)</weight>
+                <noticeNo>전북-전주-2021-02149</noticeNo>
+                <noticeSdt>20211224</noticeSdt>
+                <noticeEdt>20220103</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2021/12/202112241912269.jpg</popfile>
+                <processState>종료(입양)</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>온순함</specialMark>
+                <careNm>행복한동물병원</careNm>
+                <careTel>063-244-0090</careTel>
+                <careAddr>전라북도 전주시 덕진구 인후동1가 806-6</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202103685</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2021/12/202112212312875_s.jpg</filename>
+                <happenDt>20211221</happenDt>
+                <happenPlace>번영로 462-7</happenPlace>
+                <kindCd>[개] 믹스견</kindCd>
+                <colorCd>흰색</colorCd>
+                <age>2021(년생)</age>
+                <weight>2.3(Kg)</weight>
+                <noticeNo>전북-전주-2021-02139</noticeNo>
+                <noticeSdt>20211221</noticeSdt>
+                <noticeEdt>20211230</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2021/12/202112212312875.jpg</popfile>
+                <processState>종료(자연사)</processState>
+                <sexCd>F</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>포유중</specialMark>
+                <careNm>행복한동물병원</careNm>
+                <careTel>063-244-0090</careTel>
+                <careAddr>전라북도 전주시 덕진구 인후동1가 806-6</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202103684</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2021/12/202112212312263_s.jpg</filename>
+                <happenDt>20211221</happenDt>
+                <happenPlace>번영로 462-7</happenPlace>
+                <kindCd>[개] 믹스견</kindCd>
+                <colorCd>흰색</colorCd>
+                <age>2021(년생)</age>
+                <weight>2.1(Kg)</weight>
+                <noticeNo>전북-전주-2021-02138</noticeNo>
+                <noticeSdt>20211221</noticeSdt>
+                <noticeEdt>20211230</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2021/12/202112212312263.jpg</popfile>
+                <processState>종료(자연사)</processState>
+                <sexCd>F</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>포유중</specialMark>
+                <careNm>행복한동물병원</careNm>
+                <careTel>063-244-0090</careTel>
+                <careAddr>전라북도 전주시 덕진구 인후동1가 806-6</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202103683</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2021/12/202112212312913_s.jpg</filename>
+                <happenDt>20211221</happenDt>
+                <happenPlace>번영로 462-7</happenPlace>
+                <kindCd>[개] 믹스견</kindCd>
+                <colorCd>흰색</colorCd>
+                <age>2021(년생)</age>
+                <weight>2.4(Kg)</weight>
+                <noticeNo>전북-전주-2021-02137</noticeNo>
+                <noticeSdt>20211221</noticeSdt>
+                <noticeEdt>20211230</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2021/12/202112212312913.jpg</popfile>
+                <processState>종료(자연사)</processState>
+                <sexCd>F</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>포유중</specialMark>
+                <careNm>행복한동물병원</careNm>
+                <careTel>063-244-0090</careTel>
+                <careAddr>전라북도 전주시 덕진구 인후동1가 806-6</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202103682</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2021/12/202112212312424_s.jpg</filename>
+                <happenDt>20211221</happenDt>
+                <happenPlace>번영로 462-7</happenPlace>
+                <kindCd>[개] 믹스견</kindCd>
+                <colorCd>흰색</colorCd>
+                <age>2021(년생)</age>
+                <weight>2.1(Kg)</weight>
+                <noticeNo>전북-전주-2021-02136</noticeNo>
+                <noticeSdt>20211221</noticeSdt>
+                <noticeEdt>20211230</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2021/12/202112212312424.jpg</popfile>
+                <processState>종료(입양)</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>포유중</specialMark>
+                <careNm>행복한동물병원</careNm>
+                <careTel>063-244-0090</careTel>
+                <careAddr>전라북도 전주시 덕진구 인후동1가 806-6</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+        </items>
+        <numOfRows>10</numOfRows>
+        <pageNo>1</pageNo>
+        <totalCount>39</totalCount>
+    </body>
+</response>

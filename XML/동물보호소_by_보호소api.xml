@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+    <header>
+        <reqNo>16267942</reqNo>
+        <resultCode>00</resultCode>
+        <resultMsg>NORMAL SERVICE.</resultMsg>
+    </header>
+    <body>
+        <items>
+            <item>
+                <careRegNo>345464200900001</careRegNo>
+                <careNm>프렌즈동물병원</careNm>
+                <apiNewAddress>전라북도 전주시 완산구 거마평로 86 (삼천동1가)</apiNewAddress>
+                <apiTel>063-227-4975</apiTel>
+            </item>
+            <item>
+                <careRegNo>345464201100008</careRegNo>
+                <careNm>수동물병원</careNm>
+                <apiNewAddress>전라북도 전주시 완산구 백제대로 400 (서신동)</apiNewAddress>
+                <apiTel>063-273-7272</apiTel>
+            </item>
+            <item>
+                <careRegNo>345464201100009</careRegNo>
+                <careNm>21세기동물병원</careNm>
+                <apiNewAddress>전라북도 전주시 덕진구 시천로 26 (송천동1가)</apiNewAddress>
+                <apiTel>063-223-5311</apiTel>
+            </item>
+            <item>
+                <careRegNo>345464201200001</careRegNo>
+                <careNm>행복한동물병원</careNm>
+                <apiNewAddress>전라북도 전주시 덕진구 건산로 243 (인후동1가)</apiNewAddress>
+                <apiTel>063-244-0090</apiTel>
+            </item>
+            <item>
+                <careRegNo>345464201100001</careRegNo>
+                <careNm>박영재동물병원</careNm>
+                <apiNewAddress>전라북도 전주시 완산구 전주천서로 111 (서서학동)</apiNewAddress>
+                <apiTel>063-284-7774</apiTel>
+            </item>
+            <item>
+                <careRegNo>345464201100011</careRegNo>
+                <careNm>아프리카동물병원</careNm>
+                <apiNewAddress>전라북도 전주시 덕진구 아중로 142 (인후동1가)</apiNewAddress>
+                <apiTel>063-247-8874</apiTel>
+            </item>
+            <item>
+                <careRegNo>345464201100003</careRegNo>
+                <careNm>서신동물병원</careNm>
+                <apiNewAddress>전라북도 전주시 완산구 서신로 33 (서신동)</apiNewAddress>
+                <apiTel>063-223-5311</apiTel>
+            </item>
+            <item>
+                <careRegNo>345464201100004</careRegNo>
+                <careNm>동부동물병원</careNm>
+                <apiNewAddress>전라북도 전주시 완산구 기린대로 139 (경원동3가)</apiNewAddress>
+                <apiTel>063-224-6672</apiTel>
+            </item>
+            <item>
+                <careRegNo>345464201300003</careRegNo>
+                <careNm>하나동물병원</careNm>
+                <apiNewAddress>전라북도 전주시 덕진구 송천중앙로 129 (송천동1가)</apiNewAddress>
+                <apiTel>063-253-9677</apiTel>
+            </item>
+            <item>
+                <careRegNo>345464201700001</careRegNo>
+                <careNm>늘푸른동물병원</careNm>
+                <apiNewAddress>전라북도 전주시 완산구 충경로 11 (다가동3가)</apiNewAddress>
+                <apiTel>063-281-0075</apiTel>
+            </item>
+            <item>
+                <careRegNo>345464202200001</careRegNo>
+                <careNm>효자동물병원</careNm>
+                <apiNewAddress>전북 전주시 완산구 백제대로 121 (효자동1가)</apiNewAddress>
+                <apiTel>063-224-6672</apiTel>
+            </item>
+        </items>
+    </body>
+</response>

@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rfcOpenApi>
+    <header>
+        <resultCode>00</resultCode>
+        <resultMsg>success</resultMsg>
+    </header>
+    <body>
+        <numOfRows>75</numOfRows>
+        <pageIndex>0</pageIndex>
+        <pageNo>1</pageNo>
+        <totalCount>75</totalCount>
+        <data>
+            <list>
+                <apiDongName>건강솔약국</apiDongName>
+                <apiLat>063-908-8063</apiLat>
+                <apiLng>35.84087</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 사평로 38 (덕진동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>1</apiSid>
+                <apiTel>127.121217</apiTel>
+            </list>
+            <list>
+                <apiDongName>송천사랑약국</apiDongName>
+                <apiLat>063-275-8415</apiLat>
+                <apiLng>35.862905</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 시천로 40 (송천동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>2</apiSid>
+                <apiTel>127.114773</apiTel>
+            </list>
+            <list>
+                <apiDongName>다온약국</apiDongName>
+                <apiLat>063-241-3341</apiLat>
+                <apiLng>35.786884</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 소대배기로 22 (평화동2가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>3</apiSid>
+                <apiTel>127.13263</apiTel>
+            </list>
+            <list>
+                <apiDongName>명문약국</apiDongName>
+                <apiLat>063-224-9500</apiLat>
+                <apiLng>35.808445</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 거마평로 181 (효자동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>4</apiSid>
+                <apiTel>127.115566</apiTel>
+            </list>
+            <list>
+                <apiDongName>명약국</apiDongName>
+                <apiLat>063-284-7263</apiLat>
+                <apiLng>35.827381</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 견훤왕궁로 78 (중노송동)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>5</apiSid>
+                <apiTel>127.154291</apiTel>
+            </list>
+            <list>
+                <apiDongName>서신약국</apiDongName>
+                <apiLat>063-274-7569</apiLat>
+                <apiLng>35.82833</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 전룡로 98 (서신동)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>6</apiSid>
+                <apiTel>127.123336</apiTel>
+            </list>
+            <list>
+                <apiDongName>전주종로중화산점약국</apiDongName>
+                <apiLat>063-226-7585</apiLat>
+                <apiLng>35.816388</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 백제대로 262 (중화산동2가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>7</apiSid>
+                <apiTel>127.123379</apiTel>
+            </list>
+            <list>
+                <apiDongName>전주플러스약국</apiDongName>
+                <apiLat>063-243-0542</apiLat>
+                <apiLng>35.847497</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 백제대로 771 (우아동3가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>8</apiSid>
+                <apiTel>127.152882</apiTel>
+            </list>
+            <list>
+                <apiDongName>아중녹십자약국</apiDongName>
+                <apiLat>063-245-8555</apiLat>
+                <apiLng>35.830071</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 석소로 32 (우아동2가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>9</apiSid>
+                <apiTel>127.169116</apiTel>
+            </list>
+            <list>
+                <apiDongName>리더스종합약국</apiDongName>
+                <apiLat>063-253-3210</apiLat>
+                <apiLng>35.834217</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 온고을로 62 (서신동)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>10</apiSid>
+                <apiTel>127.116143</apiTel>
+            </list>
+            <list>
+                <apiDongName>바다약국</apiDongName>
+                <apiLat>063-255-7404</apiLat>
+                <apiLng>35.856006</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 송천로 30 (송천동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>11</apiSid>
+                <apiTel>127.119156</apiTel>
+            </list>
+            <list>
+                <apiDongName>남대문 약국</apiDongName>
+                <apiLat>063-284-2106</apiLat>
+                <apiLng>35.81268</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 풍남문4길 3 (전동3가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>12</apiSid>
+                <apiTel>127.145318</apiTel>
+            </list>
+            <list>
+                <apiDongName>튼튼약국</apiDongName>
+                <apiLat>063-228-9877</apiLat>
+                <apiLng>35.813952</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 서원로 63 (효자동2가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>13</apiSid>
+                <apiTel>127.100976</apiTel>
+            </list>
+            <list>
+                <apiDongName>녹십자약국</apiDongName>
+                <apiLat>063-227-8011</apiLat>
+                <apiLng>35.806157</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 용머리로 25-1 (효자동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>14</apiSid>
+                <apiTel>127.11329</apiTel>
+            </list>
+            <list>
+                <apiDongName>호성프라자약국</apiDongName>
+                <apiLat>063-241-1093</apiLat>
+                <apiLng>35.860378</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 호성3길 19 (호성동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>15</apiSid>
+                <apiTel>127.150564</apiTel>
+            </list>
+            <list>
+                <apiDongName>유한약국</apiDongName>
+                <apiLat>063-287-6770</apiLat>
+                <apiLng>35.798356</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 장승배기로 266 (평화동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>16</apiSid>
+                <apiTel>127.141278</apiTel>
+            </list>
+            <list>
+                <apiDongName>새롬약국</apiDongName>
+                <apiLat>063-226-7985</apiLat>
+                <apiLng>35.794269</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 거마평로 22 (삼천동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>17</apiSid>
+                <apiTel>127.11705</apiTel>
+            </list>
+            <list>
+                <apiDongName>전주시동물약국</apiDongName>
+                <apiLat>063-236-2282</apiLat>
+                <apiLng>35.814433</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 우전로 225 (효자동2가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>18</apiSid>
+                <apiTel>127.101457</apiTel>
+            </list>
+            <list>
+                <apiDongName>약손약국</apiDongName>
+                <apiLat>063-226-8275</apiLat>
+                <apiLng>35.809239</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 거마평로 190 (효자동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>19</apiSid>
+                <apiTel>127.115657</apiTel>
+            </list>
+            <list>
+                <apiDongName>경인당약국</apiDongName>
+                <apiLat>063-225-8255</apiLat>
+                <apiLng>35.791784</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 장승배기로 48 (삼천동1가, 삼천동 두일하나아파트 상가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>20</apiSid>
+                <apiTel>127.118594</apiTel>
+            </list>
+            <list>
+                <apiDongName>서신토마토약국</apiDongName>
+                <apiLat>063-274-5755</apiLat>
+                <apiLng>35.834195</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 온고을로 66 (서신동, 박천수정형외과)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>21</apiSid>
+                <apiTel>127.115546</apiTel>
+            </list>
+            <list>
+                <apiDongName>정약국</apiDongName>
+                <apiLat>063-241-0798</apiLat>
+                <apiLng>35.865327</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 동부대로 891 (호성동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>22</apiSid>
+                <apiTel>127.148108</apiTel>
+            </list>
+            <list>
+                <apiDongName>전주백제약국</apiDongName>
+                <apiLat>063-251-7569</apiLat>
+                <apiLng>35.844443</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 백제대로 687 (금암동, 전주백제약국)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>23</apiSid>
+                <apiTel>127.144191</apiTel>
+            </list>
+            <list>
+                <apiDongName>실로암약국</apiDongName>
+                <apiLat>063-247-1300</apiLat>
+                <apiLng>35.843976</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 백제대로 686 (인후동2가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>24</apiSid>
+                <apiTel>127.144497</apiTel>
+            </list>
+            <list>
+                <apiDongName>서신이마트약국</apiDongName>
+                <apiLat>063-255-3520</apiLat>
+                <apiLng>35.83221</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 당산로 106 (서신동)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>25</apiSid>
+                <apiTel>127.12004</apiTel>
+            </list>
+            <list>
+                <apiDongName>문학동물약국</apiDongName>
+                <apiLat>063-225-6419</apiLat>
+                <apiLng>35.828794</apiLng>
+                <apiNewAddress>완산구 문학대6길 11 (효자동3가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>26</apiSid>
+                <apiTel>127.103168</apiTel>
+            </list>
+            <list>
+                <apiDongName>호성백제약국</apiDongName>
+                <apiLat>063-241-7569</apiLat>
+                <apiLng>35.860872</apiLng>
+                <apiNewAddress>덕진구 호성3길 22 (호성동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>27</apiSid>
+                <apiTel>127.150364</apiTel>
+            </list>
+            <list>
+                <apiDongName>100세 약국</apiDongName>
+                <apiLat>063-231-7577</apiLat>
+                <apiLng>35.814925</apiLng>
+                <apiNewAddress>완산구 선너머4길 6 (중화산동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>28</apiSid>
+                <apiTel>127.132116</apiTel>
+            </list>
+            <list>
+                <apiDongName>온심약국</apiDongName>
+                <apiLat>063-228-9278</apiLat>
+                <apiLng>35.787509</apiLng>
+                <apiNewAddress>완산구 모악로 4679 (평화동2가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>29</apiSid>
+                <apiTel>127.129694</apiTel>
+            </list>
+            <list>
+                <apiDongName>송천동물약국</apiDongName>
+                <apiLat>063-278-2818</apiLat>
+                <apiLng>35.866721</apiLng>
+                <apiNewAddress>덕진구 붓내3길 48 (송천동2가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>30</apiSid>
+                <apiTel>127.126692</apiTel>
+            </list>
+            <list>
+                <apiDongName>우리정다운약국</apiDongName>
+                <apiLat>063-275-9115</apiLat>
+                <apiLng>35.833285</apiLng>
+                <apiNewAddress>완산구 당산로 43, 1층 (서신동)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>31</apiSid>
+                <apiTel>127.113063</apiTel>
+            </list>
+            <list>
+                <apiDongName>바른약국</apiDongName>
+                <apiLat>063-225-9370</apiLat>
+                <apiLng>35.832972</apiLng>
+                <apiNewAddress>완산구 기지로 66, 102호 (중동)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>32</apiSid>
+                <apiTel>127.113149</apiTel>
+            </list>
+            <list>
+                <apiDongName>에이스약국</apiDongName>
+                <apiLat>063-255-3520</apiLat>
+                <apiLng>35.832271</apiLng>
+                <apiNewAddress>완산구 당산로 106 (서신동)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>33</apiSid>
+                <apiTel>127.12004</apiTel>
+            </list>
+            <list>
+                <apiDongName>한사랑약국</apiDongName>
+                <apiLat>063-225-6149</apiLat>
+                <apiLng>35.828751</apiLng>
+                <apiNewAddress>완산구 문학대6길 11 (효자동3가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>34</apiSid>
+                <apiTel>127.103029</apiTel>
+            </list>
+            <list>
+                <apiDongName>전주동물약국</apiDongName>
+                <apiLat>063-241-7569</apiLat>
+                <apiLng>35.860898</apiLng>
+                <apiNewAddress>덕진구 호성3길 22 (호성동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>35</apiSid>
+                <apiTel>127.150343</apiTel>
+            </list>
+            <list>
+                <apiDongName>다나동물약국</apiDongName>
+                <apiLat>063-231-7577</apiLat>
+                <apiLng>35.815021</apiLng>
+                <apiNewAddress>완산구 선너머4길 6 (중화산동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>36</apiSid>
+                <apiTel>127.13203</apiTel>
+            </list>
+            <list>
+                <apiDongName>서문동물약국</apiDongName>
+                <apiLat>063-228-9278</apiLat>
+                <apiLng>35.787509</apiLng>
+                <apiNewAddress>완산구 모악로 4679 (평화동2가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>37</apiSid>
+                <apiTel>127.129694</apiTel>
+            </list>
+            <list>
+                <apiDongName>효인약국</apiDongName>
+                <apiLat>063-278-2818</apiLat>
+                <apiLng>35.866721</apiLng>
+                <apiNewAddress>덕진구 붓내3길 48 (송천동2가, 의원)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>38</apiSid>
+                <apiTel>127.126692</apiTel>
+            </list>
+            <list>
+                <apiDongName>연세약국</apiDongName>
+                <apiLat>063-275-9115</apiLat>
+                <apiLng>35.833285</apiLng>
+                <apiNewAddress>완산구 당산로 43, 1층 (서신동)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>39</apiSid>
+                <apiTel>127.113063</apiTel>
+            </list>
+            <list>
+                <apiDongName>금강약국</apiDongName>
+                <apiLat>063-225-9370</apiLat>
+                <apiLng>35.832972</apiLng>
+                <apiNewAddress>덕진구 기지로 66, 102호 (중동)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>40</apiSid>
+                <apiTel>127.113149</apiTel>
+            </list>
+            <list>
+                <apiDongName>마더 온누리약국</apiDongName>
+                <apiLat>063-904-9443</apiLat>
+                <apiLng>35.863874</apiLng>
+                <apiNewAddress>덕진구 솔내로 152, 103호 (송천동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>41</apiSid>
+                <apiTel>127.1272</apiTel>
+            </list>
+            <list>
+                <apiDongName>화영약국</apiDongName>
+                <apiLat>063-244-1251</apiLat>
+                <apiLng>35.839869</apiLng>
+                <apiNewAddress>덕진구 안덕원로 373 (산정동)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>42</apiSid>
+                <apiTel>127.167529</apiTel>
+            </list>
+            <list>
+                <apiDongName>에코동물약국</apiDongName>
+                <apiLat>063-272-0430</apiLat>
+                <apiLng>35.842456</apiLng>
+                <apiNewAddress>덕진구 기린대로 479-1 (덕진동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>43</apiSid>
+                <apiTel>127.125205</apiTel>
+            </list>
+            <list>
+                <apiDongName>송신약국</apiDongName>
+                <apiLat>063-226-9988</apiLat>
+                <apiLng>35.800933</apiLng>
+                <apiNewAddress>완산구 강변로 106 (삼천동1가, 삼천하이츠)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>44</apiSid>
+                <apiTel>127.113092</apiTel>
+            </list>
+            <list>
+                <apiDongName>바른동물약국</apiDongName>
+                <apiLat>063-225-9370</apiLat>
+                <apiLng>35.838242</apiLng>
+                <apiNewAddress>덕진구 기지로 66 (중동)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>45</apiSid>
+                <apiTel>127.058972</apiTel>
+            </list>
+            <list>
+                <apiDongName>아중백제약국</apiDongName>
+                <apiLat>06-3242-0027</apiLat>
+                <apiLng>35.832254</apiLng>
+                <apiNewAddress>덕진구 견훤로 229 (인후동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>46</apiSid>
+                <apiTel>127.15808</apiTel>
+            </list>
+            <list>
+                <apiDongName>아름다운약국</apiDongName>
+                <apiLat>063-247-0880</apiLat>
+                <apiLng>35.826311</apiLng>
+                <apiNewAddress>덕진구 아중로 147 (인후동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>47</apiSid>
+                <apiTel>127.165681</apiTel>
+            </list>
+            <list>
+                <apiDongName>에코유익한약국</apiDongName>
+                <apiLat>063-278-1300</apiLat>
+                <apiLng>35.873336</apiLng>
+                <apiNewAddress>덕진구 세병로 172, 103호 (송천동2가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>48</apiSid>
+                <apiTel>127.134253</apiTel>
+            </list>
+            <list>
+                <apiDongName>효천온누리약국</apiDongName>
+                <apiLat>063-255-1728</apiLat>
+                <apiLng>35.802612</apiLng>
+                <apiNewAddress>완산구 천잠로 164 (효자동2가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>49</apiSid>
+                <apiTel>127.09932</apiTel>
+            </list>
+            <list>
+                <apiDongName>늘조은약국</apiDongName>
+                <apiLat></apiLat>
+                <apiLng>35.826797</apiLng>
+                <apiNewAddress>완산구 문학대4길 28, 연세빌 늘조은약국 (효자동3가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>50</apiSid>
+                <apiTel>127.105125</apiTel>
+            </list>
+            <list>
+                <apiDongName>송천성심약국</apiDongName>
+                <apiLat>063-252-7788</apiLat>
+                <apiLng>35.863437</apiLng>
+                <apiNewAddress>덕진구 솔내로 148 (송천동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>51</apiSid>
+                <apiTel>127.127377</apiTel>
+            </list>
+            <list>
+                <apiDongName>수하락한약국</apiDongName>
+                <apiLat></apiLat>
+                <apiLng>35.826124</apiLng>
+                <apiNewAddress>완산구 문학로 10 (효자동3가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>52</apiSid>
+                <apiTel>127.102049</apiTel>
+            </list>
+            <list>
+                <apiDongName>옵티마런던약국</apiDongName>
+                <apiLat>063-252-2332</apiLat>
+                <apiLng>35.832466</apiLng>
+                <apiNewAddress>덕진구 태진로 125-30, 103동 103호 (금암동, 휴엔하임주상복합아파트)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>53</apiSid>
+                <apiTel>127.135359</apiTel>
+            </list>
+            <list>
+                <apiDongName>전주대형약국</apiDongName>
+                <apiLat>063-278-3060</apiLat>
+                <apiLng>35.83211</apiLng>
+                <apiNewAddress>완산구 당산로 50 (서신동)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>54</apiSid>
+                <apiTel>127.113615</apiTel>
+            </list>
+            <list>
+                <apiDongName>에코수약국</apiDongName>
+                <apiLat>063-255-1133</apiLat>
+                <apiLng>35.879047</apiLng>
+                <apiNewAddress>덕진구 세병로 176 (송천동2가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>55</apiSid>
+                <apiTel>127.133212</apiTel>
+            </list>
+            <list>
+                <apiDongName>대학약국</apiDongName>
+                <apiLat></apiLat>
+                <apiLng>35.845068</apiLng>
+                <apiNewAddress>덕진구 건지로 14-4 (금암동)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>56</apiSid>
+                <apiTel>127.143078</apiTel>
+            </list>
+            <list>
+                <apiDongName>관통약국</apiDongName>
+                <apiLat></apiLat>
+                <apiLng>35.818759</apiLng>
+                <apiNewAddress>완산구 팔달로 181, 관통약국 (경원동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>57</apiSid>
+                <apiTel>127.146712</apiTel>
+            </list>
+            <list>
+                <apiDongName>센트럴약국</apiDongName>
+                <apiLat>063-466-3266</apiLat>
+                <apiLng>35.815071</apiLng>
+                <apiNewAddress>완산구 홍산2길 17, 센트럴빌딩 1층 102호 (효자동3가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>58</apiSid>
+                <apiTel>127.110915</apiTel>
+            </list>
+            <list>
+                <apiDongName>휴베이스 효천약국</apiDongName>
+                <apiLat></apiLat>
+                <apiLng>35.798861</apiLng>
+                <apiNewAddress>완산구 효천중앙로 17, 1층 9호 (효자동2가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>59</apiSid>
+                <apiTel>127.103527</apiTel>
+            </list>
+            <list>
+                <apiDongName>미소진약국</apiDongName>
+                <apiLat></apiLat>
+                <apiLng>35.809425</apiLng>
+                <apiNewAddress>완산구 호암로 29 (효자동2가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>60</apiSid>
+                <apiTel>127.097696</apiTel>
+            </list>
+            <list>
+                <apiDongName>프렌드팜남대문약국</apiDongName>
+                <apiLat>063-222-2106</apiLat>
+                <apiLng>35.807015</apiLng>
+                <apiNewAddress>완산구 용머리로 57 (효자동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>61</apiSid>
+                <apiTel>127.116273</apiTel>
+            </list>
+            <list>
+                <apiDongName>수진가동물약국</apiDongName>
+                <apiLat>063-272-8066</apiLat>
+                <apiLng>35.826784</apiLng>
+                <apiNewAddress>완산구 노송여울2길 100 (서노송동)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>62</apiSid>
+                <apiTel>127.142657</apiTel>
+            </list>
+            <list>
+                <apiDongName>서신태평양약국</apiDongName>
+                <apiLat></apiLat>
+                <apiLng>35.832142</apiLng>
+                <apiNewAddress>완산구 당산로 102 (서신동)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>63</apiSid>
+                <apiTel>127.119554</apiTel>
+            </list>
+            <list>
+                <apiDongName>다정한약국</apiDongName>
+                <apiLat></apiLat>
+                <apiLng>35.806721</apiLng>
+                <apiNewAddress>완산구 용머리로 31, 홈플러스 지하2층 (효자동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>64</apiSid>
+                <apiTel>127.114032</apiTel>
+            </list>
+            <list>
+                <apiDongName>민트약국</apiDongName>
+                <apiLat></apiLat>
+                <apiLng>35.843551</apiLng>
+                <apiNewAddress>덕진구 명륜4길 17, 104호 (덕진동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>65</apiSid>
+                <apiTel>127.126588</apiTel>
+            </list>
+            <list>
+                <apiDongName>열린약국</apiDongName>
+                <apiLat></apiLat>
+                <apiLng>35.794758</apiLng>
+                <apiNewAddress>완산구 모악로 4766, 열린약국 (평화동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>66</apiSid>
+                <apiTel>127.132751</apiTel>
+            </list>
+            <list>
+                <apiDongName>백화점약국</apiDongName>
+                <apiLat>063-255-8275</apiLat>
+                <apiLng>35.834306</apiLng>
+                <apiNewAddress>완산구 온고을로 26 (서신동)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>67</apiSid>
+                <apiTel>127.120064</apiTel>
+            </list>
+            <list>
+                <apiDongName>미소온누리약국</apiDongName>
+                <apiLat></apiLat>
+                <apiLng>35.842802</apiLng>
+                <apiNewAddress>덕진구 기린대로 489, 한나여성병원 (덕진동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>68</apiSid>
+                <apiTel>127.124471</apiTel>
+            </list>
+            <list>
+                <apiDongName>더건강약국</apiDongName>
+                <apiLat></apiLat>
+                <apiLng>35.799215</apiLng>
+                <apiNewAddress>완산구 효천중앙로 51 (효자동2가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>69</apiSid>
+                <apiTel>127.107271</apiTel>
+            </list>
+            <list>
+                <apiDongName>서신종로약국</apiDongName>
+                <apiLat></apiLat>
+                <apiLng>35.8321</apiLng>
+                <apiNewAddress>완산구 당산로 98 (서신동)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>70</apiSid>
+                <apiTel>127.119278</apiTel>
+            </list>
+            <list>
+                <apiDongName>명현약국</apiDongName>
+                <apiLat>063-251-3762</apiLat>
+                <apiLng>35.83296</apiLng>
+                <apiNewAddress>완산구 온고을로 119, 115-117호 (서신동, 신일아파트)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>71</apiSid>
+                <apiTel>127.110664</apiTel>
+            </list>
+            <list>
+                <apiDongName>평화대성약국</apiDongName>
+                <apiLat></apiLat>
+                <apiLng>35.793409</apiLng>
+                <apiNewAddress>완산구 모악로 4750 (평화동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>72</apiSid>
+                <apiTel>127.132511</apiTel>
+            </list>
+            <list>
+                <apiDongName>기린약국</apiDongName>
+                <apiLat></apiLat>
+                <apiLng>35.798294</apiLng>
+                <apiNewAddress>완산구 효천중앙로 22, A동 105호 (효자동2가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>73</apiSid>
+                <apiTel>127.103688</apiTel>
+            </list>
+            <list>
+                <apiDongName>새하얀온누리약국</apiDongName>
+                <apiLat>063-229-8575</apiLat>
+                <apiLng>35.806392</apiLng>
+                <apiNewAddress>완산구 용머리로 62 (효자동1가)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>74</apiSid>
+                <apiTel>127.117053</apiTel>
+            </list>
+            <list>
+                <apiDongName>우리들약국</apiDongName>
+                <apiLat></apiLat>
+                <apiLng>35.843357</apiLng>
+                <apiNewAddress>덕진구 권삼득로 303, 1층 (금암동)</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>75</apiSid>
+                <apiTel>127.128502</apiTel>
+            </list>
+        </data>
+    </body>
+</rfcOpenApi>

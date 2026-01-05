@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+    <header>
+        <reqNo>16533347</reqNo>
+        <resultCode>00</resultCode>
+        <resultMsg>NORMAL SERVICE.</resultMsg>
+    </header>
+    <body>
+        <items>
+            <item>
+                <desertionNo>445464202202157</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/04/202207121307777_s.jpg</filename>
+                <happenDt>20220712</happenDt>
+                <happenPlace>완산구 솟대로10</happenPlace>
+                <kindCd>[고양이] 한국 고양이</kindCd>
+                <colorCd>고등어색</colorCd>
+                <age>2022(년생)</age>
+                <weight>0.5(Kg)</weight>
+                <noticeNo>전북-전주-2022-00837</noticeNo>
+                <noticeSdt>20220712</noticeSdt>
+                <noticeEdt>20220721</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/04/202207121307777.jpg</popfile>
+                <processState>보호중</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>양후지괴사</specialMark>
+                <careNm>동부동물병원</careNm>
+                <careTel>063-231-2455</careTel>
+                <careAddr>전라북도 전주시 완산구 경원동1가 3-10</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202202156</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/04/202207121307987_s.jpg</filename>
+                <happenDt>20220712</happenDt>
+                <happenPlace>우아동 롯데아파트부근</happenPlace>
+                <kindCd>[고양이] 한국 고양이</kindCd>
+                <colorCd>치즈색</colorCd>
+                <age>2022(년생)</age>
+                <weight>0.2(Kg)</weight>
+                <noticeNo>전북-전주-2022-00836</noticeNo>
+                <noticeSdt>20220712</noticeSdt>
+                <noticeEdt>20220721</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/04/202207121307987.jpg</popfile>
+                <processState>보호중</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>비루,유루</specialMark>
+                <careNm>동부동물병원</careNm>
+                <careTel>063-231-2455</careTel>
+                <careAddr>전라북도 전주시 완산구 경원동1가 3-10</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202202152</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/06/202207111707849_s.jpg</filename>
+                <happenDt>20220711</happenDt>
+                <happenPlace>우아동 롯데아파트부근</happenPlace>
+                <kindCd>[고양이] 한국 고양이</kindCd>
+                <colorCd>카오스</colorCd>
+                <age>2022(년생)</age>
+                <weight>0.3(Kg)</weight>
+                <noticeNo>전북-전주-2022-00833</noticeNo>
+                <noticeSdt>20220711</noticeSdt>
+                <noticeEdt>20220720</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/06/202207111707849.jpg</popfile>
+                <processState>보호중</processState>
+                <sexCd>F</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>유루</specialMark>
+                <careNm>동부동물병원</careNm>
+                <careTel>063-231-2455</careTel>
+                <careAddr>전라북도 전주시 완산구 경원동1가 3-10</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202202129</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/04/202207041507594_s.jpg</filename>
+                <happenDt>20220704</happenDt>
+                <happenPlace>관선3길20-3</happenPlace>
+                <kindCd>[고양이] 한국 고양이</kindCd>
+                <colorCd>치즈색</colorCd>
+                <age>2022(년생)</age>
+                <weight>0.1(Kg)</weight>
+                <noticeNo>전북-전주-2022-00811</noticeNo>
+                <noticeSdt>20220704</noticeSdt>
+                <noticeEdt>20220713</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/04/202207041507594.jpg</popfile>
+                <processState>종료(자연사)</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>포유중</specialMark>
+                <careNm>동부동물병원</careNm>
+                <careTel>063-231-2455</careTel>
+                <careAddr>전라북도 전주시 완산구 경원동1가 3-10</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202202089</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/06/202206291106745_s.jpg</filename>
+                <happenDt>20220629</happenDt>
+                <happenPlace>효자상산타운부근</happenPlace>
+                <kindCd>[개] 믹스견</kindCd>
+                <colorCd>크림색</colorCd>
+                <age>2022(년생)</age>
+                <weight>2.6(Kg)</weight>
+                <noticeNo>전북-전주-2022-00785</noticeNo>
+                <noticeSdt>20220629</noticeSdt>
+                <noticeEdt>20220708</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/06/202206291106745.jpg</popfile>
+                <processState>종료(입양)</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>온순함</specialMark>
+                <careNm>동부동물병원</careNm>
+                <careTel>063-231-2455</careTel>
+                <careAddr>전라북도 전주시 완산구 경원동1가 3-10</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202202062</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/04/202206251606877_s.jpg</filename>
+                <happenDt>20220625</happenDt>
+                <happenPlace>평화광신프로그레스아파트</happenPlace>
+                <kindCd>[고양이] 한국 고양이</kindCd>
+                <colorCd>흰색검정</colorCd>
+                <age>2022(년생)</age>
+                <weight>0.4(Kg)</weight>
+                <noticeNo>전북-전주-2022-00777</noticeNo>
+                <noticeSdt>20220625</noticeSdt>
+                <noticeEdt>20220704</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/04/202206251606877.jpg</popfile>
+                <processState>종료(입양)</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>Y</neuterYn>
+                <specialMark>포유중</specialMark>
+                <careNm>동부동물병원</careNm>
+                <careTel>063-231-2455</careTel>
+                <careAddr>전라북도 전주시 완산구 경원동1가 3-10</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202202039</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/06/202206231206731_s.jpg</filename>
+                <happenDt>20220623</happenDt>
+                <happenPlace>평화광신프로그레스아파트</happenPlace>
+                <kindCd>[고양이] 한국 고양이</kindCd>
+                <colorCd>흰색검정</colorCd>
+                <age>2022(년생)</age>
+                <weight>0.4(Kg)</weight>
+                <noticeNo>전북-전주-2022-00769</noticeNo>
+                <noticeSdt>20220623</noticeSdt>
+                <noticeEdt>20220704</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/06/202206231206731.jpg</popfile>
+                <processState>종료(입양)</processState>
+                <sexCd>F</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>포유중</specialMark>
+                <careNm>동부동물병원</careNm>
+                <careTel>063-231-2455</careTel>
+                <careAddr>전라북도 전주시 완산구 경원동1가 3-10</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202202033</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/06/202206221906414_s.jpg</filename>
+                <happenDt>20220622</happenDt>
+                <happenPlace>(유)금호항공여행사</happenPlace>
+                <kindCd>[고양이] 러시안 블루</kindCd>
+                <colorCd>자색</colorCd>
+                <age>2022(년생)</age>
+                <weight>0.8(Kg)</weight>
+                <noticeNo>전북-전주-2022-00766</noticeNo>
+                <noticeSdt>20220622</noticeSdt>
+                <noticeEdt>20220701</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/06/202206221906414.jpg</popfile>
+                <processState>종료(입양)</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>비루</specialMark>
+                <careNm>동부동물병원</careNm>
+                <careTel>063-231-2455</careTel>
+                <careAddr>전라북도 전주시 완산구 경원동1가 3-10</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202201933</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/05/202206131206794_s.jpg</filename>
+                <happenDt>20220613</happenDt>
+                <happenPlace>병무청오거리 도로</happenPlace>
+                <kindCd>[고양이] 한국 고양이</kindCd>
+                <colorCd>흰색검정</colorCd>
+                <age>2022(년생)</age>
+                <weight>1.0(Kg)</weight>
+                <noticeNo>전북-전주-2022-00722</noticeNo>
+                <noticeSdt>20220613</noticeSdt>
+                <noticeEdt>20220622</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/05/202206131206794.jpg</popfile>
+                <processState>보호중</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>교통사고,복벽파열</specialMark>
+                <careNm>동부동물병원</careNm>
+                <careTel>063-231-2455</careTel>
+                <careAddr>전라북도 전주시 완산구 경원동1가 3-10</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202201932</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/05/20220613120601_s.jpg</filename>
+                <happenDt>20220613</happenDt>
+                <happenPlace>화산성당옆공원</happenPlace>
+                <kindCd>[고양이] 한국 고양이</kindCd>
+                <colorCd>흰색</colorCd>
+                <age>2022(년생)</age>
+                <weight>0.22(Kg)</weight>
+                <noticeNo>전북-전주-2022-00721</noticeNo>
+                <noticeSdt>20220613</noticeSdt>
+                <noticeEdt>20220622</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/05/20220613120601.jpg</popfile>
+                <processState>종료(입양)</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>허피스,진균감염</specialMark>
+                <careNm>동부동물병원</careNm>
+                <careTel>063-231-2455</careTel>
+                <careAddr>전라북도 전주시 완산구 경원동1가 3-10</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+        </items>
+        <numOfRows>10</numOfRows>
+        <pageNo>1</pageNo>
+        <totalCount>48</totalCount>
+    </body>
+</response>

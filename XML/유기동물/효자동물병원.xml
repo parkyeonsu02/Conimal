@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+    <header>
+        <reqNo>16428550</reqNo>
+        <resultCode>00</resultCode>
+        <resultMsg>NORMAL SERVICE.</resultMsg>
+    </header>
+    <body>
+        <items>
+            <item>
+                <desertionNo>445464202202163</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/07/202207131307362_s.jpg</filename>
+                <happenDt>20220713</happenDt>
+                <happenPlace>효자성원맨션</happenPlace>
+                <kindCd>[고양이] 한국 고양이</kindCd>
+                <colorCd>흰색+검은색점박이</colorCd>
+                <age>2022(년생)</age>
+                <weight>0.1(Kg)</weight>
+                <noticeNo>전북-전주-2022-00844</noticeNo>
+                <noticeSdt>20220713</noticeSdt>
+                <noticeEdt>20220722</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/07/202207131307362.jpg</popfile>
+                <processState>보호중</processState>
+                <sexCd>F</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>눈을아직못뜸</specialMark>
+                <careNm>효자동물병원</careNm>
+                <careTel>063-224-6672</careTel>
+                <careAddr>전라북도 전주시 완산구 백제대로 121 (효자동1가) </careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202202155</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/06/202207121107912_s.jpg</filename>
+                <happenDt>20220712</happenDt>
+                <happenPlace>외칠봉3길 16-1 안빌리지 B동</happenPlace>
+                <kindCd>[개] 믹스견</kindCd>
+                <colorCd>황갈색</colorCd>
+                <age>2022(년생)</age>
+                <weight>2.3(Kg)</weight>
+                <noticeNo>전북-전주-2022-00835</noticeNo>
+                <noticeSdt>20220712</noticeSdt>
+                <noticeEdt>20220721</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/06/202207121107912.jpg</popfile>
+                <processState>보호중</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>오른쪽 엉덩이 털빠짐</specialMark>
+                <careNm>효자동물병원</careNm>
+                <careTel>063-224-6672</careTel>
+                <careAddr>전라북도 전주시 완산구 백제대로 121 (효자동1가) </careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202202146</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/06/202207091107230_s.jpg</filename>
+                <happenDt>20220709</happenDt>
+                <happenPlace>선화학교 근처</happenPlace>
+                <kindCd>[개] 시츄</kindCd>
+                <colorCd>흰+갈</colorCd>
+                <age>2017(년생)</age>
+                <weight>6(Kg)</weight>
+                <noticeNo>전북-전주-2022-00827</noticeNo>
+                <noticeSdt>20220709</noticeSdt>
+                <noticeEdt>20220718</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/06/202207091107230.jpg</popfile>
+                <processState>보호중</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>순하고 눈이 안좋음</specialMark>
+                <careNm>효자동물병원</careNm>
+                <careTel>063-224-6672</careTel>
+                <careAddr>전라북도 전주시 완산구 백제대로 121 (효자동1가) </careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202202127</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/06/202207041307475_s.jpg</filename>
+                <happenDt>20220704</happenDt>
+                <happenPlace>효자동 대림아파트</happenPlace>
+                <kindCd>[개] 믹스견</kindCd>
+                <colorCd>갈색+흰색</colorCd>
+                <age>2012(년생)</age>
+                <weight>10(Kg)</weight>
+                <noticeNo>전북-전주-2022-00809</noticeNo>
+                <noticeSdt>20220704</noticeSdt>
+                <noticeEdt>20220713</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/06/202207041307475.jpg</popfile>
+                <processState>종료(반환)</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>Y</neuterYn>
+                <specialMark>눈꼽이 많이 껴있고 온순함</specialMark>
+                <careNm>효자동물병원</careNm>
+                <careTel>063-224-6672</careTel>
+                <careAddr>전라북도 전주시 완산구 백제대로 121 (효자동1가) </careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202202069</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/04/202206271606961_s.jpg</filename>
+                <happenDt>20220627</happenDt>
+                <happenPlace>연수요양병원 근처</happenPlace>
+                <kindCd>[개] 믹스견</kindCd>
+                <colorCd>흰색</colorCd>
+                <age>2019(년생)</age>
+                <weight>13(Kg)</weight>
+                <noticeNo>전북-전주-2022-00781</noticeNo>
+                <noticeSdt>20220627</noticeSdt>
+                <noticeEdt>20220706</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/04/202206271606961.jpg</popfile>
+                <processState>종료(입양)</processState>
+                <sexCd>F</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>예민함 사나움</specialMark>
+                <careNm>효자동물병원</careNm>
+                <careTel>063-224-6672</careTel>
+                <careAddr>전라북도 전주시 완산구 백제대로 121 (효자동1가) </careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202201999</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/05/202206201006185_s.jpg</filename>
+                <happenDt>20220620</happenDt>
+                <happenPlace>완산소방서</happenPlace>
+                <kindCd>[개] 믹스견</kindCd>
+                <colorCd>흰색</colorCd>
+                <age>2018(년생)</age>
+                <weight>20(Kg)</weight>
+                <noticeNo>전북-전주-2022-00748</noticeNo>
+                <noticeSdt>20220620</noticeSdt>
+                <noticeEdt>20220629</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/05/202206201006185.jpg</popfile>
+                <processState>종료(반환)</processState>
+                <sexCd>F</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>겁이많고 소심함</specialMark>
+                <careNm>효자동물병원</careNm>
+                <careTel>063-224-6672</careTel>
+                <careAddr>전라북도 전주시 완산구 백제대로 121 (효자동1가) </careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202201894</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/04/20220611170691_s.jpg</filename>
+                <happenDt>20220611</happenDt>
+                <happenPlace>효자동 신리공원 근처</happenPlace>
+                <kindCd>[고양이] 먼치킨</kindCd>
+                <colorCd>흰색</colorCd>
+                <age>2019(년생)</age>
+                <weight>2(Kg)</weight>
+                <noticeNo>전북-전주-2022-00702</noticeNo>
+                <noticeSdt>20220611</noticeSdt>
+                <noticeEdt>20220620</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/04/20220611170691.jpg</popfile>
+                <processState>종료(입양)</processState>
+                <sexCd>F</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>온순함</specialMark>
+                <careNm>효자동물병원</careNm>
+                <careTel>063-224-6672</careTel>
+                <careAddr>전라북도 전주시 완산구 백제대로 121 (효자동1가) </careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202201767</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/04/202206010906477_s.jpg</filename>
+                <happenDt>20220601</happenDt>
+                <happenPlace>효자초 부근</happenPlace>
+                <kindCd>[개] 시츄</kindCd>
+                <colorCd>연한갈색</colorCd>
+                <age>2019(년생)</age>
+                <weight>4.5(Kg)</weight>
+                <noticeNo>전북-전주-2022-00639</noticeNo>
+                <noticeSdt>20220601</noticeSdt>
+                <noticeEdt>20220610</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/04/202206010906477.jpg</popfile>
+                <processState>종료(입양)</processState>
+                <sexCd>F</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>뒷다리 발등 피부 안좋음</specialMark>
+                <careNm>효자동물병원</careNm>
+                <careTel>063-224-6672</careTel>
+                <careAddr>전라북도 전주시 완산구 백제대로 121 (효자동1가) </careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202201766</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/04/202206010906869_s.jpg</filename>
+                <happenDt>20220601</happenDt>
+                <happenPlace>효자롯데아파트 근처</happenPlace>
+                <kindCd>[개] 시츄</kindCd>
+                <colorCd>갈+흰</colorCd>
+                <age>2017(년생)</age>
+                <weight>4.8(Kg)</weight>
+                <noticeNo>전북-전주-2022-00638</noticeNo>
+                <noticeSdt>20220601</noticeSdt>
+                <noticeEdt>20220610</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/04/202206010906869.jpg</popfile>
+                <processState>종료(입양)</processState>
+                <sexCd>F</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>온순, 피부가 안좋음</specialMark>
+                <careNm>효자동물병원</careNm>
+                <careTel>063-224-6672</careTel>
+                <careAddr>전라북도 전주시 완산구 백제대로 121 (효자동1가) </careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202201615</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/04/202205211005857_s.jpg</filename>
+                <happenDt>20220521</happenDt>
+                <happenPlace>흑석골 소나무 공인중개사</happenPlace>
+                <kindCd>[고양이] 한국 고양이</kindCd>
+                <colorCd>검+흰</colorCd>
+                <age>2020(년생)</age>
+                <weight>3(Kg)</weight>
+                <noticeNo>전북-전주-2022-00573</noticeNo>
+                <noticeSdt>20220521</noticeSdt>
+                <noticeEdt>20220530</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/04/202205211005857.jpg</popfile>
+                <processState>종료(입양)</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>빨간색 방울 목걸이 착용</specialMark>
+                <careNm>효자동물병원</careNm>
+                <careTel>063-224-6672</careTel>
+                <careAddr>전라북도 전주시 완산구 백제대로 121 (효자동1가) </careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+        </items>
+        <numOfRows>10</numOfRows>
+        <pageNo>1</pageNo>
+        <totalCount>42</totalCount>
+    </body>
+</response>

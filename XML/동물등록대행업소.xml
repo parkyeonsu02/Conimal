@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rfcOpenApi>
+    <header>
+        <resultCode>00</resultCode>
+        <resultMsg>success</resultMsg>
+    </header>
+    <body>
+        <numOfRows>40</numOfRows>
+        <pageIndex>0</pageIndex>
+        <pageNo>1</pageNo>
+        <totalCount>40</totalCount>
+        <data>
+            <list>
+                <apiDongName>닥터펫동물병원</apiDongName>
+                <apiLat>35.8268694</apiLat>
+                <apiLng>127.123062</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 백제대로 378</apiNewAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>1</apiSid>
+                <apiTel>063-275-7585</apiTel>
+            </list>
+            <list>
+                <apiDongName>동부동물병원</apiDongName>
+                <apiLat>35.8209784</apiLat>
+                <apiLng>127.152101</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 기린대로 139</apiNewAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>2</apiSid>
+                <apiTel>063-231-2455</apiTel>
+            </list>
+            <list>
+                <apiDongName>늘푸른동물병원</apiDongName>
+                <apiLat>35.8169274</apiLat>
+                <apiLng>127.14074</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 충경로 11</apiNewAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>3</apiSid>
+                <apiTel>063-281-0075</apiTel>
+            </list>
+            <list>
+                <apiDongName>프렌즈동물병원</apiDongName>
+                <apiLat>35.8000089</apiLat>
+                <apiLng>127.117091</apiLng>
+                <apiNewAddress>전북 전주시 완산구 거마평로 86</apiNewAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>4</apiSid>
+                <apiTel>063-227-4975</apiTel>
+            </list>
+            <list>
+                <apiDongName>수종합24시동물병원</apiDongName>
+                <apiLat>35.8288521</apiLat>
+                <apiLng>127.123131</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 백제대로 400</apiNewAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>5</apiSid>
+                <apiTel>063-273-7272</apiTel>
+            </list>
+            <list>
+                <apiDongName>서신동물병원</apiDongName>
+                <apiLat>35.8283728</apiLat>
+                <apiLng>127.115583</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 서신로 33</apiNewAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>6</apiSid>
+                <apiTel>063-253-2747</apiTel>
+            </list>
+            <list>
+                <apiDongName>박영재동물병원</apiDongName>
+                <apiLat>35.8127264</apiLat>
+                <apiLng>127.149275</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 팔달로 112</apiNewAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>7</apiSid>
+                <apiTel>063-284-7774</apiTel>
+            </list>
+            <list>
+                <apiDongName>아리랑동물병원</apiDongName>
+                <apiLat>35.8115986</apiLat>
+                <apiLng>127.126491</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 서원로 294</apiNewAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>8</apiSid>
+                <apiTel>063-228-5311</apiTel>
+            </list>
+            <list>
+                <apiDongName>사랑플러스동물병원</apiDongName>
+                <apiLat>35.8732685</apiLat>
+                <apiLng>127.075496</apiLng>
+                <apiNewAddress>전북 전주시 덕진구 쪽구름2길 3</apiNewAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>9</apiSid>
+                <apiTel>063-211-0600</apiTel>
+            </list>
+            <list>
+                <apiDongName>푸른하늘동물병원</apiDongName>
+                <apiLat>35.7892511</apiLat>
+                <apiLng>127.1315</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 모악로 4704</apiNewAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>10</apiSid>
+                <apiTel>063-222-4119</apiTel>
+            </list>
+            <list>
+                <apiDongName>펫동물병원</apiDongName>
+                <apiLat>35.8068862</apiLat>
+                <apiLng>127.11636</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 용머리로 57</apiNewAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>11</apiSid>
+                <apiTel>063-221-7582</apiTel>
+            </list>
+            <list>
+                <apiDongName>우리동물병원</apiDongName>
+                <apiLat>35.8059356</apiLat>
+                <apiLng>127.120762</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 용머리로 96</apiNewAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>12</apiSid>
+                <apiTel>063-226-3333</apiTel>
+            </list>
+            <list>
+                <apiDongName>효자동물병원</apiDongName>
+                <apiLat>35.8037696</apiLat>
+                <apiLng>127.123735</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 백제대로 121</apiNewAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>13</apiSid>
+                <apiTel>063-224-6672</apiTel>
+            </list>
+            <list>
+                <apiDongName>웰동물병원</apiDongName>
+                <apiLat>35.8133697</apiLat>
+                <apiLng>127.102394</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 서원로 72</apiNewAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>14</apiSid>
+                <apiTel>063-227-8275</apiTel>
+            </list>
+            <list>
+                <apiDongName>전주동물병원</apiDongName>
+                <apiLat>35.8321244</apiLat>
+                <apiLng>127.10285</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 세내로 509-1</apiNewAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>15</apiSid>
+                <apiTel>063-255-0630</apiTel>
+            </list>
+            <list>
+                <apiDongName>웨스턴동물병원</apiDongName>
+                <apiLat>35.8177495</apiLat>
+                <apiLng>127.102787</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 홍산북로 11-3</apiNewAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>16</apiSid>
+                <apiTel>063-222-7275</apiTel>
+            </list>
+            <list>
+                <apiDongName>코끼리동물병원</apiDongName>
+                <apiLat>35.7951267</apiLat>
+                <apiLng>127.13214</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 모악로 4769</apiNewAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>17</apiSid>
+                <apiTel>063-902-7975</apiTel>
+            </list>
+            <list>
+                <apiDongName>데이지동물병원</apiDongName>
+                <apiLat>35.8076611</apiLat>
+                <apiLng>127.116505</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 거마평로 170</apiNewAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>18</apiSid>
+                <apiTel>063-225-7588</apiTel>
+            </list>
+            <list>
+                <apiDongName>메이동물메디컬센터</apiDongName>
+                <apiLat>35.8123766</apiLat>
+                <apiLng>127.123637</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 백제대로 218</apiNewAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>19</apiSid>
+                <apiTel>063-285-7975</apiTel>
+            </list>
+            <list>
+                <apiDongName>산책동물병원</apiDongName>
+                <apiLat>35.8359171</apiLat>
+                <apiLng>127.168764</apiLng>
+                <apiNewAddress>전북 전주시 덕진구 건산로 290</apiNewAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>20</apiSid>
+                <apiTel>063-244-7509</apiTel>
+            </list>
+            <list>
+                <apiDongName>코끼리동물병원(중화산점)</apiDongName>
+                <apiLat>35.8193216</apiLat>
+                <apiLng>127.118336</apiLng>
+                <apiNewAddress>전북 전주시 완산구 중화산로 100</apiNewAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>21</apiSid>
+                <apiTel>063-245-7975</apiTel>
+            </list>
+            <list>
+                <apiDongName>하루동물병원</apiDongName>
+                <apiLat>35.7882332</apiLat>
+                <apiLng>127.131011</apiLng>
+                <apiNewAddress>전북 전주시 완산구 모악로 4692</apiNewAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>22</apiSid>
+                <apiTel>063-232-5900</apiTel>
+            </list>
+            <list>
+                <apiDongName>마루동물병원</apiDongName>
+                <apiLat>35.8307905</apiLat>
+                <apiLng>127.122382</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 감나무3길 4 </apiNewAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>23</apiSid>
+                <apiTel>063-276-7500</apiTel>
+            </list>
+            <list>
+                <apiDongName>하나동물병원</apiDongName>
+                <apiLat>35.8488194</apiLat>
+                <apiLng>127.118557</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 송천중앙로 17</apiNewAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>24</apiSid>
+                <apiTel>063-253-5677</apiTel>
+            </list>
+            <list>
+                <apiDongName>푸른 동물병원</apiDongName>
+                <apiLat>35.87179</apiLat>
+                <apiLng>127.076159</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 쪽구름로 71-2</apiNewAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>25</apiSid>
+                <apiTel>063-211-2662</apiTel>
+            </list>
+            <list>
+                <apiDongName>자스민동물병원</apiDongName>
+                <apiLat>35.8710345</apiLat>
+                <apiLng>127.13635</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 백석로 18</apiNewAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>26</apiSid>
+                <apiTel>063-276-3939</apiTel>
+            </list>
+            <list>
+                <apiDongName>힐링동물병원</apiDongName>
+                <apiLat>35.862804</apiLat>
+                <apiLng>127.121312</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 송천중앙로 177</apiNewAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>27</apiSid>
+                <apiTel>063-272-8575</apiTel>
+            </list>
+            <list>
+                <apiDongName>21세기종합동물병원</apiDongName>
+                <apiLat>35.8615124</apiLat>
+                <apiLng>127.114955</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 시천로 26</apiNewAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>28</apiSid>
+                <apiTel>063-251-1015</apiTel>
+            </list>
+            <list>
+                <apiDongName>MVP동물병원</apiDongName>
+                <apiLat>35.8155517</apiLat>
+                <apiLng>127.111614</apiLng>
+                <apiNewAddress>전북 전주시 완산구 세내로 285</apiNewAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>29</apiSid>
+                <apiTel>063-227-8575</apiTel>
+            </list>
+            <list>
+                <apiDongName>송동물의료센터</apiDongName>
+                <apiLat>35.8339045</apiLat>
+                <apiLng>127.157504</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 견훤로 247</apiNewAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>30</apiSid>
+                <apiTel>063-247-6677</apiTel>
+            </list>
+            <list>
+                <apiDongName>스누피동물병원</apiDongName>
+                <apiLat>35.8361633</apiLat>
+                <apiLng>127.15307</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 안덕원로 238</apiNewAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>31</apiSid>
+                <apiTel>063-241-7275</apiTel>
+            </list>
+            <list>
+                <apiDongName>행복한동물병원</apiDongName>
+                <apiLat>35.8348247</apiLat>
+                <apiLng>127.163615</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 건산로 243</apiNewAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>32</apiSid>
+                <apiTel>063-244-0090</apiTel>
+            </list>
+            <list>
+                <apiDongName>아프리카24시동물병원</apiDongName>
+                <apiLat>35.8255034</apiLat>
+                <apiLng>127.165334</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 아중로 142</apiNewAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>33</apiSid>
+                <apiTel>063-247-8875</apiTel>
+            </list>
+            <list>
+                <apiDongName>모래내동물병원</apiDongName>
+                <apiLat>35.8339189</apiLat>
+                <apiLng>127.145927</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 안덕원로 165</apiNewAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>34</apiSid>
+                <apiTel>063-274-7500</apiTel>
+            </list>
+            <list>
+                <apiDongName>하트동물병원</apiDongName>
+                <apiLat>35.8648228</apiLat>
+                <apiLng>127.121359</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 두간1길 5</apiNewAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>35</apiSid>
+                <apiTel>063-276-7675</apiTel>
+            </list>
+            <list>
+                <apiDongName>스마일동물병원</apiDongName>
+                <apiLat>35.8649509</apiLat>
+                <apiLng>127.128268</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 천마산로 65</apiNewAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>36</apiSid>
+                <apiTel>063-273-1202</apiTel>
+            </list>
+            <list>
+                <apiDongName>24시올리몰스동물메디컬센터</apiDongName>
+                <apiLat>35.8660217</apiLat>
+                <apiLng>127.121106</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 송천중앙로 213 </apiNewAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>37</apiSid>
+                <apiTel>063-275-7979</apiTel>
+            </list>
+            <list>
+                <apiDongName>에코동물병원</apiDongName>
+                <apiLat>35.8745563</apiLat>
+                <apiLng>127.130033</apiLng>
+                <apiNewAddress>전북 전주시 덕진구 세병로 41</apiNewAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>38</apiSid>
+                <apiTel>063-251-7975</apiTel>
+            </list>
+            <list>
+                <apiDongName>사라양한방동물병원</apiDongName>
+                <apiLat>35.8288337</apiLat>
+                <apiLng>127.132106</apiLng>
+                <apiNewAddress>전북 전주시 덕진구 벚꽃로 21</apiNewAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>39</apiSid>
+                <apiTel>063-901-7582</apiTel>
+            </list>
+            <list>
+                <apiDongName>바우동물병원</apiDongName>
+                <apiLat>35.8544651</apiLat>
+                <apiLng>127.155087</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 견훤로 491</apiNewAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>40</apiSid>
+                <apiTel>063-243-3200</apiTel>
+            </list>
+        </data>
+    </body>
+</rfcOpenApi>

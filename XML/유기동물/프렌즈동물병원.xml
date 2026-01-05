@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+    <header>
+        <reqNo>16269703</reqNo>
+        <resultCode>00</resultCode>
+        <resultMsg>NORMAL SERVICE.</resultMsg>
+    </header>
+    <body>
+        <items>
+            <item>
+                <desertionNo>445464202103709</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2021/12/202112292312217_s.jpg</filename>
+                <happenDt>20211229</happenDt>
+                <happenPlace>문학초 네오다다</happenPlace>
+                <kindCd>[고양이] 한국 고양이</kindCd>
+                <colorCd>흰/흑갈색</colorCd>
+                <age>2021(년생)</age>
+                <weight>2.5(Kg)</weight>
+                <noticeNo>전북-전주-2021-02163</noticeNo>
+                <noticeSdt>20211229</noticeSdt>
+                <noticeEdt>20220107</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2021/12/202112292312217.jpg</popfile>
+                <processState>종료(입양)</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>뒷다리 파행</specialMark>
+                <careNm>프렌즈동물병원</careNm>
+                <careTel>063-227-4975</careTel>
+                <careAddr>전라북도 전주시 완산구 삼천동1가 592-1</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202103704</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2021/12/202112281812140_s.jpg</filename>
+                <happenDt>20211228</happenDt>
+                <happenPlace>월드컵경기장</happenPlace>
+                <kindCd>[개] 믹스견</kindCd>
+                <colorCd>흰색</colorCd>
+                <age>2017(년생)</age>
+                <weight>8(Kg)</weight>
+                <noticeNo>전북-전주-2021-02158</noticeNo>
+                <noticeSdt>20211228</noticeSdt>
+                <noticeEdt>20220106</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2021/12/202112281812140.jpg</popfile>
+                <processState>보호중</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>왼쪽눈이 위축됨</specialMark>
+                <careNm>프렌즈동물병원</careNm>
+                <careTel>063-227-4975</careTel>
+                <careAddr>전라북도 전주시 완산구 삼천동1가 592-1</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202103703</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2021/12/202112281812495_s.jpg</filename>
+                <happenDt>20211228</happenDt>
+                <happenPlace>삼천주공 5단지</happenPlace>
+                <kindCd>[고양이] 한국 고양이</kindCd>
+                <colorCd>흰/노랑색</colorCd>
+                <age>2019(년생)</age>
+                <weight>8(Kg)</weight>
+                <noticeNo>전북-전주-2021-02157</noticeNo>
+                <noticeSdt>20211228</noticeSdt>
+                <noticeEdt>20220106</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2021/12/202112281812495.jpg</popfile>
+                <processState>종료(반환)</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>깨끗하고 온순함</specialMark>
+                <careNm>프렌즈동물병원</careNm>
+                <careTel>063-227-4975</careTel>
+                <careAddr>전라북도 전주시 완산구 삼천동1가 592-1</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202103701</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2021/12/202112272312685_s.jpg</filename>
+                <happenDt>20211227</happenDt>
+                <happenPlace>평화동 일성주방</happenPlace>
+                <kindCd>[개] 믹스견</kindCd>
+                <colorCd>흰/갈색</colorCd>
+                <age>2019(년생)</age>
+                <weight>14(Kg)</weight>
+                <noticeNo>전북-전주-2021-02155</noticeNo>
+                <noticeSdt>20211227</noticeSdt>
+                <noticeEdt>20220105</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2021/12/202112272312685.jpg</popfile>
+                <processState>종료(반환)</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>목줄과 견인줄 달림</specialMark>
+                <careNm>프렌즈동물병원</careNm>
+                <careTel>063-227-4975</careTel>
+                <careAddr>전라북도 전주시 완산구 삼천동1가 592-1</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202103700</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2021/12/20211227231229_s.jpg</filename>
+                <happenDt>20211227</happenDt>
+                <happenPlace>평화동 아크로폴리스</happenPlace>
+                <kindCd>[고양이] 한국 고양이</kindCd>
+                <colorCd>삼색</colorCd>
+                <age>2018(년생)</age>
+                <weight>3(Kg)</weight>
+                <noticeNo>전북-전주-2021-02154</noticeNo>
+                <noticeSdt>20211227</noticeSdt>
+                <noticeEdt>20220105</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2021/12/20211227231229.jpg</popfile>
+                <processState>종료(반환)</processState>
+                <sexCd>F</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>TNR개체/얼굴피부박리</specialMark>
+                <careNm>프렌즈동물병원</careNm>
+                <careTel>063-227-4975</careTel>
+                <careAddr>전라북도 전주시 완산구 삼천동1가 592-1</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202103699</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2021/12/202112272312470_s.jpg</filename>
+                <happenDt>20211227</happenDt>
+                <happenPlace>원동로 124</happenPlace>
+                <kindCd>[개] 믹스견</kindCd>
+                <colorCd>갈색</colorCd>
+                <age>2021(년생)</age>
+                <weight>10(Kg)</weight>
+                <noticeNo>전북-전주-2021-02153</noticeNo>
+                <noticeSdt>20211227</noticeSdt>
+                <noticeEdt>20220105</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2021/12/202112272312470.jpg</popfile>
+                <processState>종료(반환)</processState>
+                <sexCd>F</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>파란색 목줄</specialMark>
+                <careNm>프렌즈동물병원</careNm>
+                <careTel>063-227-4975</careTel>
+                <careAddr>전라북도 전주시 완산구 삼천동1가 592-1</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202103689</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2021/12/202112222312774_s.jpg</filename>
+                <happenDt>20211222</happenDt>
+                <happenPlace>쑥고개</happenPlace>
+                <kindCd>[개] 믹스견</kindCd>
+                <colorCd>갈색</colorCd>
+                <age>2021(년생)</age>
+                <weight>5(Kg)</weight>
+                <noticeNo>전북-전주-2021-02143</noticeNo>
+                <noticeSdt>20211222</noticeSdt>
+                <noticeEdt>20211231</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2021/12/202112222312774.jpg</popfile>
+                <processState>종료(입양)</processState>
+                <sexCd>F</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>온순한 편임</specialMark>
+                <careNm>프렌즈동물병원</careNm>
+                <careTel>063-227-4975</careTel>
+                <careAddr>전라북도 전주시 완산구 삼천동1가 592-1</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202103688</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2021/12/202112222212329_s.jpg</filename>
+                <happenDt>20211222</happenDt>
+                <happenPlace>두산푸른솔@ 놀이터</happenPlace>
+                <kindCd>[개] 푸들</kindCd>
+                <colorCd>갈색</colorCd>
+                <age>2016(년생)</age>
+                <weight>6.5(Kg)</weight>
+                <noticeNo>전북-전주-2021-02142</noticeNo>
+                <noticeSdt>20211222</noticeSdt>
+                <noticeEdt>20211231</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2021/12/202112222212329.jpg</popfile>
+                <processState>종료(입양)</processState>
+                <sexCd>F</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>빨간색 하네스 착용</specialMark>
+                <careNm>프렌즈동물병원</careNm>
+                <careTel>063-227-4975</careTel>
+                <careAddr>전라북도 전주시 완산구 삼천동1가 592-1</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202103687</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2021/12/202112222212228_s.jpg</filename>
+                <happenDt>20211222</happenDt>
+                <happenPlace>장승배기로 262</happenPlace>
+                <kindCd>[개] 시바</kindCd>
+                <colorCd>검정/흰색</colorCd>
+                <age>2018(년생)</age>
+                <weight>20(Kg)</weight>
+                <noticeNo>전북-전주-2021-02141</noticeNo>
+                <noticeSdt>20211222</noticeSdt>
+                <noticeEdt>20211231</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2021/12/202112222212228.jpg</popfile>
+                <processState>종료(안락사)</processState>
+                <sexCd>F</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>꼬리가 짧은편</specialMark>
+                <careNm>프렌즈동물병원</careNm>
+                <careTel>063-227-4975</careTel>
+                <careAddr>전라북도 전주시 완산구 삼천동1가 592-1</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202103676</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2021/12/202112201912105_s.jpg</filename>
+                <happenDt>20211220</happenDt>
+                <happenPlace>서원로 202</happenPlace>
+                <kindCd>[고양이] 한국 고양이</kindCd>
+                <colorCd>검정줄무늬</colorCd>
+                <age>2021(년생)</age>
+                <weight>1(Kg)</weight>
+                <noticeNo>전북-전주-2021-02130</noticeNo>
+                <noticeSdt>20211220</noticeSdt>
+                <noticeEdt>20211229</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2021/12/202112201912105.jpg</popfile>
+                <processState>종료(자연사)</processState>
+                <sexCd>F</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>어깨에 상처</specialMark>
+                <careNm>프렌즈동물병원</careNm>
+                <careTel>063-227-4975</careTel>
+                <careAddr>전라북도 전주시 완산구 삼천동1가 592-1</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+        </items>
+        <numOfRows>10</numOfRows>
+        <pageNo>1</pageNo>
+        <totalCount>22</totalCount>
+    </body>
+</response>

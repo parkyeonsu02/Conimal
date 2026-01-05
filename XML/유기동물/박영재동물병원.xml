@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+    <header>
+        <reqNo>16338468</reqNo>
+        <resultCode>00</resultCode>
+        <resultMsg>NORMAL SERVICE.</resultMsg>
+    </header>
+    <body>
+        <items>
+            <item>
+                <desertionNo>445464202103691</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2021/12/202112241112538_s.jpg</filename>
+                <happenDt>20211224</happenDt>
+                <happenPlace>흑석로 59-4</happenPlace>
+                <kindCd>[개] 푸들</kindCd>
+                <colorCd>갈색</colorCd>
+                <age>2020(년생)</age>
+                <weight>3.5(Kg)</weight>
+                <noticeNo>전북-전주-2021-02145</noticeNo>
+                <noticeSdt>20211224</noticeSdt>
+                <noticeEdt>20220103</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2021/12/202112241112538.jpg</popfile>
+                <processState>종료(반환)</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>Y</neuterYn>
+                <specialMark>분홍색옷, 주인분연락되었음</specialMark>
+                <careNm>박영재동물병원</careNm>
+                <careTel>063-284-7774</careTel>
+                <careAddr>전라북도 전주시 완산구 전주천서로 111 (서서학동) </careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202103690</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2021/12/202112231412254_s.jpg</filename>
+                <happenDt>20211223</happenDt>
+                <happenPlace>평화동 엠코아파트</happenPlace>
+                <kindCd>[고양이] 한국 고양이</kindCd>
+                <colorCd>고등어</colorCd>
+                <age>2021(년생)</age>
+                <weight>0.3(Kg)</weight>
+                <noticeNo>전북-전주-2021-02144</noticeNo>
+                <noticeSdt>20211223</noticeSdt>
+                <noticeEdt>20220103</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2021/12/202112231412254.jpg</popfile>
+                <processState>종료(입양)</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>온순함</specialMark>
+                <careNm>박영재동물병원</careNm>
+                <careTel>063-284-7774</careTel>
+                <careAddr>전라북도 전주시 완산구 전주천서로 111 (서서학동) </careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202103674</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2021/12/202112200912506_s.jpg</filename>
+                <happenDt>20211220</happenDt>
+                <happenPlace>풍림아이원 주차장</happenPlace>
+                <kindCd>[개] 푸들</kindCd>
+                <colorCd>실버</colorCd>
+                <age>2016(년생)</age>
+                <weight>4.5(Kg)</weight>
+                <noticeNo>전북-전주-2021-02128</noticeNo>
+                <noticeSdt>20211220</noticeSdt>
+                <noticeEdt>20211229</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2021/12/202112200912506.jpg</popfile>
+                <processState>종료(입양)</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>스포팅 미용 되어있음</specialMark>
+                <careNm>박영재동물병원</careNm>
+                <careTel>063-284-7774</careTel>
+                <careAddr>전라북도 전주시 완산구 전주천서로 111 (서서학동) </careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202103673</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2021/12/202112200912884_s.jpg</filename>
+                <happenDt>20211220</happenDt>
+                <happenPlace>송천동 메가월드 옆 주차장</happenPlace>
+                <kindCd>[개] 푸들</kindCd>
+                <colorCd>갈색</colorCd>
+                <age>2020(년생)</age>
+                <weight>3.1(Kg)</weight>
+                <noticeNo>전북-전주-2021-02127</noticeNo>
+                <noticeSdt>20211220</noticeSdt>
+                <noticeEdt>20211229</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2021/12/202112200912884.jpg</popfile>
+                <processState>종료(입양)</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>입주변, 닭발미용</specialMark>
+                <careNm>박영재동물병원</careNm>
+                <careTel>063-284-7774</careTel>
+                <careAddr>전라북도 전주시 완산구 전주천서로 111 (서서학동) </careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202103670</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2021/12/202112191612764_s.jpg</filename>
+                <happenDt>20211219</happenDt>
+                <happenPlace>덕진공원 산책로</happenPlace>
+                <kindCd>[개] 비숑 프리제</kindCd>
+                <colorCd>백</colorCd>
+                <age>2017(년생)</age>
+                <weight>4.2(Kg)</weight>
+                <noticeNo>전북-전주-2021-02124</noticeNo>
+                <noticeSdt>20211219</noticeSdt>
+                <noticeEdt>20211228</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2021/12/202112191612764.jpg</popfile>
+                <processState>종료(입양)</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>푸들미용한 비숑프리제로 보임</specialMark>
+                <careNm>박영재동물병원</careNm>
+                <careTel>063-284-7774</careTel>
+                <careAddr>전라북도 전주시 완산구 전주천서로 111 (서서학동) </careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202103669</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2021/12/202112191612810_s.jpg</filename>
+                <happenDt>20211219</happenDt>
+                <happenPlace>동산동 월드컵경기장 주차장</happenPlace>
+                <kindCd>[개] 프렌치 불독</kindCd>
+                <colorCd>아이보리</colorCd>
+                <age>2018(년생)</age>
+                <weight>6.2(Kg)</weight>
+                <noticeNo>전북-전주-2021-02123</noticeNo>
+                <noticeSdt>20211219</noticeSdt>
+                <noticeEdt>20211228</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2021/12/202112191612810.jpg</popfile>
+                <processState>종료(입양)</processState>
+                <sexCd>F</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>젖꼭지가 큼, 온순함</specialMark>
+                <careNm>박영재동물병원</careNm>
+                <careTel>063-284-7774</careTel>
+                <careAddr>전라북도 전주시 완산구 전주천서로 111 (서서학동) </careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202103667</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2021/12/202112181612251_s.jpg</filename>
+                <happenDt>20211218</happenDt>
+                <happenPlace>색장동 축구경기장</happenPlace>
+                <kindCd>[개] 푸들</kindCd>
+                <colorCd>갈색</colorCd>
+                <age>2015(년생)</age>
+                <weight>6.8(Kg)</weight>
+                <noticeNo>전북-전주-2021-02121</noticeNo>
+                <noticeSdt>20211218</noticeSdt>
+                <noticeEdt>20211227</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2021/12/202112181612251.jpg</popfile>
+                <processState>종료(입양)</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>누더기로 엉킨아이를 신고자분이 미용시켜준 상태</specialMark>
+                <careNm>박영재동물병원</careNm>
+                <careTel>063-284-7774</careTel>
+                <careAddr>전라북도 전주시 완산구 전주천서로 111 (서서학동) </careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202103661</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2021/12/202112171512323_s.jpg</filename>
+                <happenDt>20211217</happenDt>
+                <happenPlace>태평동 현대아이파크 공사현장 주변</happenPlace>
+                <kindCd>[개] 말티즈</kindCd>
+                <colorCd>백</colorCd>
+                <age>2011(년생)</age>
+                <weight>4.1(Kg)</weight>
+                <noticeNo>전북-전주-2021-02115</noticeNo>
+                <noticeSdt>20211217</noticeSdt>
+                <noticeEdt>20211227</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2021/12/202112171512323.jpg</popfile>
+                <processState>종료(반환)</processState>
+                <sexCd>F</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>내장칩있음, 보호자님과 연락 되었음</specialMark>
+                <careNm>박영재동물병원</careNm>
+                <careTel>063-284-7774</careTel>
+                <careAddr>전라북도 전주시 완산구 전주천서로 111 (서서학동) </careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202103657</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2021/12/202112170912626_s.jpg</filename>
+                <happenDt>20211217</happenDt>
+                <happenPlace>싸전다리</happenPlace>
+                <kindCd>[고양이] 한국 고양이</kindCd>
+                <colorCd>검정</colorCd>
+                <age>2021(년생)</age>
+                <weight>0.5(Kg)</weight>
+                <noticeNo>전북-전주-2021-02112</noticeNo>
+                <noticeSdt>20211217</noticeSdt>
+                <noticeEdt>20211227</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2021/12/202112170912626.jpg</popfile>
+                <processState>종료(자연사)</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>기침콧물,범백음성,신고자분이 수액놔주심,입양의사는없음</specialMark>
+                <careNm>박영재동물병원</careNm>
+                <careTel>063-284-7774</careTel>
+                <careAddr>전라북도 전주시 완산구 전주천서로 111 (서서학동) </careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202103640</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2021/11/202112121312766_s.jpg</filename>
+                <happenDt>20211212</happenDt>
+                <happenPlace>서학로 84 인근 공터</happenPlace>
+                <kindCd>[개] 시베리안 허스키</kindCd>
+                <colorCd>흰&amp;갈</colorCd>
+                <age>2021(년생)</age>
+                <weight>1.8(Kg)</weight>
+                <noticeNo>전북-전주-2021-02095</noticeNo>
+                <noticeSdt>20211212</noticeSdt>
+                <noticeEdt>20211221</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2021/11/202112121312766.jpg</popfile>
+                <processState>종료(입양)</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>양측눈 어두운 블루아이, 똥꼬발랄</specialMark>
+                <careNm>박영재동물병원</careNm>
+                <careTel>063-284-7774</careTel>
+                <careAddr>전라북도 전주시 완산구 전주천서로 111 (서서학동) </careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+        </items>
+        <numOfRows>10</numOfRows>
+        <pageNo>1</pageNo>
+        <totalCount>13</totalCount>
+    </body>
+</response>

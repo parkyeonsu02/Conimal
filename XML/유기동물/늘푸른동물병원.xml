@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+    <header>
+        <reqNo>16427968</reqNo>
+        <resultCode>00</resultCode>
+        <resultMsg>NORMAL SERVICE.</resultMsg>
+    </header>
+    <body>
+        <items>
+            <item>
+                <desertionNo>445464202202164</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/07/202207131607461_s.jpg</filename>
+                <happenDt>20220713</happenDt>
+                <happenPlace>척동10길 10-5</happenPlace>
+                <kindCd>[고양이] 한국 고양이</kindCd>
+                <colorCd>삼색</colorCd>
+                <age>2022(년생)</age>
+                <weight>0.1(Kg)</weight>
+                <noticeNo>전북-전주-2022-00845</noticeNo>
+                <noticeSdt>20220713</noticeSdt>
+                <noticeEdt>20220722</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/07/202207131607461.jpg</popfile>
+                <processState>보호중</processState>
+                <sexCd>F</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>어림</specialMark>
+                <careNm>늘푸른동물병원</careNm>
+                <careTel>063-281-0075</careTel>
+                <careAddr>전라북도 전주시 완산구 다가동3가 충경로 11 (다가동3가, 늘푸른동물병원) </careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202202147</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/04/202207091507788_s.jpg</filename>
+                <happenDt>20220709</happenDt>
+                <happenPlace>척동10길 10-4</happenPlace>
+                <kindCd>[개] 말티즈</kindCd>
+                <colorCd>흰색</colorCd>
+                <age>2012(년생)</age>
+                <weight>3.5(Kg)</weight>
+                <noticeNo>전북-전주-2022-00828</noticeNo>
+                <noticeSdt>20220709</noticeSdt>
+                <noticeEdt>20220718</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/04/202207091507788.jpg</popfile>
+                <processState>종료(반환)</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>Y</neuterYn>
+                <specialMark>열사병, 칩있음</specialMark>
+                <careNm>늘푸른동물병원</careNm>
+                <careTel>063-281-0075</careTel>
+                <careAddr>전라북도 전주시 완산구 다가동3가 충경로 11 (다가동3가, 늘푸른동물병원) </careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202202141</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/04/202207081907722_s.jpg</filename>
+                <happenDt>20220708</happenDt>
+                <happenPlace>서신동 신일아파트 화단 </happenPlace>
+                <kindCd>[고양이] 한국 고양이</kindCd>
+                <colorCd>갈색검정</colorCd>
+                <age>2022(년생)</age>
+                <weight>0.3(Kg)</weight>
+                <noticeNo>전북-전주-2022-00822</noticeNo>
+                <noticeSdt>20220708</noticeSdt>
+                <noticeEdt>20220718</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/04/202207081907722.jpg</popfile>
+                <processState>보호중</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>성격이 순함 , 목부분 상처있음(화분에 목이 끼임)</specialMark>
+                <careNm>늘푸른동물병원</careNm>
+                <careTel>063-281-0075</careTel>
+                <careAddr>전라북도 전주시 완산구 다가동3가 충경로 11 (다가동3가, 늘푸른동물병원) </careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202202140</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/04/202207081707484_s.jpg</filename>
+                <happenDt>20220708</happenDt>
+                <happenPlace>완산경찰서</happenPlace>
+                <kindCd>[고양이] 한국 고양이</kindCd>
+                <colorCd>검은색</colorCd>
+                <age>2022(년생)</age>
+                <weight>0.1(Kg)</weight>
+                <noticeNo>전북-전주-2022-00821</noticeNo>
+                <noticeSdt>20220708</noticeSdt>
+                <noticeEdt>20220718</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/04/202207081707484.jpg</popfile>
+                <processState>보호중</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>많이 어림</specialMark>
+                <careNm>늘푸른동물병원</careNm>
+                <careTel>063-281-0075</careTel>
+                <careAddr>전라북도 전주시 완산구 다가동3가 충경로 11 (다가동3가, 늘푸른동물병원) </careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202202116</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/04/202207011507412_s.jpg</filename>
+                <happenDt>20220701</happenDt>
+                <happenPlace>금암동 동남목련 APT 관리실</happenPlace>
+                <kindCd>[고양이] 한국 고양이</kindCd>
+                <colorCd>흰색 노랑색</colorCd>
+                <age>2022(년생)</age>
+                <weight>0.7(Kg)</weight>
+                <noticeNo>전북-전주-2022-00800</noticeNo>
+                <noticeSdt>20220701</noticeSdt>
+                <noticeEdt>20220711</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/04/202207011507412.jpg</popfile>
+                <processState>종료(자연사)</processState>
+                <sexCd>F</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>교통사고 의심</specialMark>
+                <careNm>늘푸른동물병원</careNm>
+                <careTel>063-281-0075</careTel>
+                <careAddr>전라북도 전주시 완산구 다가동3가 충경로 11 (다가동3가, 늘푸른동물병원) </careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202202093</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/06/202206291606993_s.jpg</filename>
+                <happenDt>20220629</happenDt>
+                <happenPlace>평화동 한성아파트 근처</happenPlace>
+                <kindCd>[고양이] 한국 고양이</kindCd>
+                <colorCd>흰색 갈색 검정색 </colorCd>
+                <age>2021(년생)</age>
+                <weight>5(Kg)</weight>
+                <noticeNo>전북-전주-2022-00788</noticeNo>
+                <noticeSdt>20220629</noticeSdt>
+                <noticeEdt>20220708</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/06/202206291606993.jpg</popfile>
+                <processState>종료(자연사)</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>Y</neuterYn>
+                <specialMark>교통사고 의심, 위독함 </specialMark>
+                <careNm>늘푸른동물병원</careNm>
+                <careTel>063-281-0075</careTel>
+                <careAddr>전라북도 전주시 완산구 다가동3가 충경로 11 (다가동3가, 늘푸른동물병원) </careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202202092</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/06/202206291606215_s.jpg</filename>
+                <happenDt>20220629</happenDt>
+                <happenPlace>객사 카페디쟈트 앞</happenPlace>
+                <kindCd>[개] 믹스견</kindCd>
+                <colorCd>흰색</colorCd>
+                <age>2022(년생)</age>
+                <weight>6.9(Kg)</weight>
+                <noticeNo>전북-전주-2022-00787</noticeNo>
+                <noticeSdt>20220629</noticeSdt>
+                <noticeEdt>20220708</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/06/202206291606215.jpg</popfile>
+                <processState>종료(반환)</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>칩 있음</specialMark>
+                <careNm>늘푸른동물병원</careNm>
+                <careTel>063-281-0075</careTel>
+                <careAddr>전라북도 전주시 완산구 다가동3가 충경로 11 (다가동3가, 늘푸른동물병원) </careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202202091</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/06/202206291606239_s.jpg</filename>
+                <happenDt>20220629</happenDt>
+                <happenPlace>기린대로 376</happenPlace>
+                <kindCd>[고양이] 한국 고양이</kindCd>
+                <colorCd>흰색 검정색 갈색 </colorCd>
+                <age>2022(년생)</age>
+                <weight>0.7(Kg)</weight>
+                <noticeNo>전북-전주-2022-00786</noticeNo>
+                <noticeSdt>20220629</noticeSdt>
+                <noticeEdt>20220708</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/06/202206291606239.jpg</popfile>
+                <processState>종료(입양)</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>어미잃은 아기고양이</specialMark>
+                <careNm>늘푸른동물병원</careNm>
+                <careTel>063-281-0075</careTel>
+                <careAddr>전라북도 전주시 완산구 다가동3가 충경로 11 (다가동3가, 늘푸른동물병원) </careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202202068</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/04/202206271206148_s.jpg</filename>
+                <happenDt>20220627</happenDt>
+                <happenPlace>도당산4길 41-4</happenPlace>
+                <kindCd>[고양이] 한국 고양이</kindCd>
+                <colorCd>검은색 흰색</colorCd>
+                <age>2022(년생)</age>
+                <weight>0.5(Kg)</weight>
+                <noticeNo>전북-전주-2022-00780</noticeNo>
+                <noticeSdt>20220627</noticeSdt>
+                <noticeEdt>20220706</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/04/202206271206148.jpg</popfile>
+                <processState>종료(자연사)</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>후지마비 교통사고 의심</specialMark>
+                <careNm>늘푸른동물병원</careNm>
+                <careTel>063-281-0075</careTel>
+                <careAddr>전라북도 전주시 완산구 다가동3가 충경로 11 (다가동3가, 늘푸른동물병원) </careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202202038</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/04/202206231106593_s.jpg</filename>
+                <happenDt>20220623</happenDt>
+                <happenPlace> 완산구 교동 945</happenPlace>
+                <kindCd>[고양이] 한국 고양이</kindCd>
+                <colorCd>노랑</colorCd>
+                <age>2022(년생)</age>
+                <weight>0.3(Kg)</weight>
+                <noticeNo>전북-전주-2022-00768</noticeNo>
+                <noticeSdt>20220623</noticeSdt>
+                <noticeEdt>20220704</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/04/202206231106593.jpg</popfile>
+                <processState>종료(자연사)</processState>
+                <sexCd>F</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>저체온,심한탈수</specialMark>
+                <careNm>늘푸른동물병원</careNm>
+                <careTel>063-281-0075</careTel>
+                <careAddr>전라북도 전주시 완산구 다가동3가 충경로 11 (다가동3가, 늘푸른동물병원) </careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+        </items>
+        <numOfRows>10</numOfRows>
+        <pageNo>1</pageNo>
+        <totalCount>85</totalCount>
+    </body>
+</response>

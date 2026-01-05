@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rfcOpenApi>
+    <header>
+        <resultCode>00</resultCode>
+        <resultMsg>success</resultMsg>
+    </header>
+    <body>
+        <numOfRows>56</numOfRows>
+        <pageIndex>0</pageIndex>
+        <pageNo>1</pageNo>
+        <totalCount>56</totalCount>
+        <data>
+            <list>
+                <apiDongName>다사랑애견</apiDongName>
+                <apiLat>35.795822</apiLat>
+                <apiLng>127.133907</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 평화동1가 709-1 </apiNewAddress>
+                <apiOldAddress>전라북도 전주시 완산구 장승배기로 194 (평화동1가)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>1</apiSid>
+                <apiTel>063-224-0090</apiTel>
+            </list>
+            <list>
+                <apiDongName>애견나라</apiDongName>
+                <apiLat>35.822645</apiLat>
+                <apiLng>127.150239</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 중노송동 498-22</apiNewAddress>
+                <apiOldAddress>전라북도 전주시 완산구 기린대로 165 (중노송동)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>2</apiSid>
+                <apiTel>063-247-0202</apiTel>
+            </list>
+            <list>
+                <apiDongName>완산애견</apiDongName>
+                <apiLat>35.807916</apiLat>
+                <apiLng>127.132145</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 서완산동2가 360-19</apiNewAddress>
+                <apiOldAddress>전라북도 전주시 완산구 용머리로 203 (서완산동2가)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>3</apiSid>
+                <apiTel>063-232-9484</apiTel>
+            </list>
+            <list>
+                <apiDongName>하나애견샵</apiDongName>
+                <apiLat>35.848839</apiLat>
+                <apiLng>127.11856</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 덕진동2가 167-156번지 </apiNewAddress>
+                <apiOldAddress>전라북도 전주시 덕진구 송천중앙로 17 (덕진동2가)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>4</apiSid>
+                <apiTel>063-274-0904</apiTel>
+            </list>
+            <list>
+                <apiDongName>벤지애견</apiDongName>
+                <apiLat>35.822851</apiLat>
+                <apiLng>127.149283</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 경원동3가 201 </apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>5</apiSid>
+                <apiTel>063-261-4878</apiTel>
+            </list>
+            <list>
+                <apiDongName>올리브애견</apiDongName>
+                <apiLat>35.856225</apiLat>
+                <apiLng>127.120053</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 송천1가 386-3</apiNewAddress>
+                <apiOldAddress></apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>6</apiSid>
+                <apiTel>063-253-9500</apiTel>
+            </list>
+            <list>
+                <apiDongName>쥬쥬애견</apiDongName>
+                <apiLat>35.835433</apiLat>
+                <apiLng>127.101144</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 효자동3가 1435-6</apiNewAddress>
+                <apiOldAddress>전라북도 전주시 완산구 서곡로 69 (효자동3가)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>7</apiSid>
+                <apiTel>063-255-0719</apiTel>
+            </list>
+            <list>
+                <apiDongName>짱구와동팔이</apiDongName>
+                <apiLat>35.817029</apiLat>
+                <apiLng>127.140211</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 다가동3가 64-18</apiNewAddress>
+                <apiOldAddress>전라북도 전주시 완산구 충경로 5-2 (다가동3가)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>8</apiSid>
+                <apiTel>063-287-0822</apiTel>
+            </list>
+            <list>
+                <apiDongName>화이트애견</apiDongName>
+                <apiLat>35.822636</apiLat>
+                <apiLng>127.150409</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 중노송동 498-25</apiNewAddress>
+                <apiOldAddress>전라북도 전주시 완산구 기린대로 163 (중노송동)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>9</apiSid>
+                <apiTel>063-287-9484</apiTel>
+            </list>
+            <list>
+                <apiDongName>가나다애견</apiDongName>
+                <apiLat>35.798516</apiLat>
+                <apiLng>127.122448</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 삼천동1가 606-2 </apiNewAddress>
+                <apiOldAddress>전라북도 전주시 완산구 용리로 116 (삼천동1가)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>10</apiSid>
+                <apiTel>063-222-2073</apiTel>
+            </list>
+            <list>
+                <apiDongName>이브애견</apiDongName>
+                <apiLat>35.822567</apiLat>
+                <apiLng>127.150207</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 중노송동 2가 498-22</apiNewAddress>
+                <apiOldAddress>전라북도 전주시 완산구 기린대로 165 (중노송동)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>11</apiSid>
+                <apiTel>063-232-1728</apiTel>
+            </list>
+            <list>
+                <apiDongName>서신동물병원</apiDongName>
+                <apiLat>35.828575</apiLat>
+                <apiLng>127.11558</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 서신동 831-4 </apiNewAddress>
+                <apiOldAddress>전라북도 전주시 완산구 서신로 33 (서신동)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>12</apiSid>
+                <apiTel>063-253-2743</apiTel>
+            </list>
+            <list>
+                <apiDongName>한울스토리</apiDongName>
+                <apiLat>35.886126</apiLat>
+                <apiLng>127.079776</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 고랑동 612-11</apiNewAddress>
+                <apiOldAddress>전라북도 전주시 덕진구 삼례로 78-37(동산동)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>13</apiSid>
+                <apiTel>-</apiTel>
+            </list>
+            <list>
+                <apiDongName>애견명가</apiDongName>
+                <apiLat>35.806396</apiLat>
+                <apiLng>127.11945</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 효자동1가 276-7</apiNewAddress>
+                <apiOldAddress>전라북도 전주시 완산구 용머리로 86 (효자동1가)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>14</apiSid>
+                <apiTel>063-228-4007</apiTel>
+            </list>
+            <list>
+                <apiDongName>탤렌트 애견샵</apiDongName>
+                <apiLat>35.814138</apiLat>
+                <apiLng>127.096325</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 효자동 3가 1716-16</apiNewAddress>
+                <apiOldAddress>전라북도 전주시 완산구 농소1길 7 (효자동3가)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>15</apiSid>
+                <apiTel>063-225-0012</apiTel>
+            </list>
+            <list>
+                <apiDongName>꿈을꾸는강아지</apiDongName>
+                <apiLat>35.798006</apiLat>
+                <apiLng>127.138314</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 평화동1가 576-5</apiNewAddress>
+                <apiOldAddress>전라북도 전주시 완산구 장승배기로 239 (평화동1가)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>16</apiSid>
+                <apiTel>063-908-5400</apiTel>
+            </list>
+            <list>
+                <apiDongName>홈플러스 전주완산점</apiDongName>
+                <apiLat>35.823901</apiLat>
+                <apiLng>127.150018</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 중노송동 495-6 </apiNewAddress>
+                <apiOldAddress>전라북도 전주시 완산구 기린대로 170 (중노송동)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>17</apiSid>
+                <apiTel>063-263-2089</apiTel>
+            </list>
+            <list>
+                <apiDongName>롯데마트송천점</apiDongName>
+                <apiLat>35.854767</apiLat>
+                <apiLng>127.120503</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 송천동1가 281-1 </apiNewAddress>
+                <apiOldAddress>전라북도 전주시 덕진구 송천중앙로 82 (송천동1가)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>18</apiSid>
+                <apiTel>063-219-2500</apiTel>
+            </list>
+            <list>
+                <apiDongName>홈플러스전주점</apiDongName>
+                <apiLat>35.847706</apiLat>
+                <apiLng>127.1529</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 우아동3가 733-1 </apiNewAddress>
+                <apiOldAddress>전라북도 전주시 덕진구 백제대로 771 (우아동3가)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>19</apiSid>
+                <apiTel>063-249-8000</apiTel>
+            </list>
+            <list>
+                <apiDongName>홈플러스효자점</apiDongName>
+                <apiLat>35.806782</apiLat>
+                <apiLng>127.11414</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 효자동1가 431-5 </apiNewAddress>
+                <apiOldAddress>전라북도 전주시 완산구 용머리로 31 (효자동1가)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>20</apiSid>
+                <apiTel>063-281-8000</apiTel>
+            </list>
+            <list>
+                <apiDongName>롯데마트덕진점</apiDongName>
+                <apiLat>35.860897</apiLat>
+                <apiLng>127.121002</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 송천동1가 481-4 </apiNewAddress>
+                <apiOldAddress>전라북도 전주시 덕진구 송천중앙로 153 (송천동1가)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>21</apiSid>
+                <apiTel>063-219-2500</apiTel>
+            </list>
+            <list>
+                <apiDongName>롯데마트전주점</apiDongName>
+                <apiLat>35.816536</apiLat>
+                <apiLng>127.102483</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 효자동2가 1234-3 </apiNewAddress>
+                <apiOldAddress>전라북도 전주시 완산구 우전로 240 (효자동2가)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>22</apiSid>
+                <apiTel>063-249-6500</apiTel>
+            </list>
+            <list>
+                <apiDongName>모모애견하우스</apiDongName>
+                <apiLat>35.80175</apiLat>
+                <apiLng>127.117001</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 삼천동1가 559-2번지 </apiNewAddress>
+                <apiOldAddress>전라북도 전주시 완산구 거마평로 106 (삼천동1가)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>23</apiSid>
+                <apiTel>-</apiTel>
+            </list>
+            <list>
+                <apiDongName>퍼피랜드</apiDongName>
+                <apiLat>35.822857</apiLat>
+                <apiLng>127.149381</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 서노송동 568-55번지 </apiNewAddress>
+                <apiOldAddress>전라북도 전주시 완산구 현무3길 78 (서노송동)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>24</apiSid>
+                <apiTel>063-908-5890</apiTel>
+            </list>
+            <list>
+                <apiDongName>멍멍아 놀자</apiDongName>
+                <apiLat>35.807712</apiLat>
+                <apiLng>127.116404</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 효자동1가 388번지 </apiNewAddress>
+                <apiOldAddress>전라북도 전주시 완산구 거마평로 170 (효자동1가)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>25</apiSid>
+                <apiTel>063-283-9500</apiTel>
+            </list>
+            <list>
+                <apiDongName>밀레펫(이마트)</apiDongName>
+                <apiLat>35.832738</apiLat>
+                <apiLng>127.120465</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 서신동 767 </apiNewAddress>
+                <apiOldAddress>전라북도 전주시 완산구 당산로 111 (서신동)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>26</apiSid>
+                <apiTel>063-259-1051</apiTel>
+            </list>
+            <list>
+                <apiDongName>레이지포</apiDongName>
+                <apiLat>35.864465</apiLat>
+                <apiLng>127.118542</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 송천동1가 818-1번지 </apiNewAddress>
+                <apiOldAddress>전라북도 전주시 덕진구 용소로 91-12 (송천동1가)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>27</apiSid>
+                <apiTel>-</apiTel>
+            </list>
+            <list>
+                <apiDongName>헬로펫 애견샵</apiDongName>
+                <apiLat>35.808044</apiLat>
+                <apiLng>127.116267</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 효자동1가 387번지 </apiNewAddress>
+                <apiOldAddress>전라북도 전주시 완산구 거마평로 174 (효자동1가)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>28</apiSid>
+                <apiTel>-</apiTel>
+            </list>
+            <list>
+                <apiDongName>애니몰하우스</apiDongName>
+                <apiLat>35.811932</apiLat>
+                <apiLng>127.094824</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 효자동3가 1731-3번지 </apiNewAddress>
+                <apiOldAddress>전라북도 전주시 완산구 봉곡로 9 (효자동3가)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>29</apiSid>
+                <apiTel>-</apiTel>
+            </list>
+            <list>
+                <apiDongName>현이펫</apiDongName>
+                <apiLat>35.828355</apiLat>
+                <apiLng>127.169963</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 우아동2가 909-7번지 </apiNewAddress>
+                <apiOldAddress>전라북도 전주시 덕진구 석소로 10 (우아동2가)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>30</apiSid>
+                <apiTel>063-243-8600</apiTel>
+            </list>
+            <list>
+                <apiDongName>제임스독</apiDongName>
+                <apiLat>35.817689</apiLat>
+                <apiLng>127.126175</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 중화산동2가 232-17번지 </apiNewAddress>
+                <apiOldAddress>전라북도 전주시 완산구 영경1길 31 (중화산동2가)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>31</apiSid>
+                <apiTel>070-8826-2661</apiTel>
+            </list>
+            <list>
+                <apiDongName>마이펫 애견용품 할인마트</apiDongName>
+                <apiLat>35.856097</apiLat>
+                <apiLng>127.120562</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 송천동1가 391-35번지 </apiNewAddress>
+                <apiOldAddress>전라북도 전주시 덕진구 송천중앙로 104 (송천동1가)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>32</apiSid>
+                <apiTel>-</apiTel>
+            </list>
+            <list>
+                <apiDongName>야옹아 멍멍해봐</apiDongName>
+                <apiLat>35.846034</apiLat>
+                <apiLng>127.11992</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 덕진동2가 220-1번지 </apiNewAddress>
+                <apiOldAddress>전라북도 전주시 덕진구 기린대로 541 (덕진동2가)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>33</apiSid>
+                <apiTel>063-275-0720</apiTel>
+            </list>
+            <list>
+                <apiDongName>탤렌트 캣</apiDongName>
+                <apiLat>35.826908</apiLat>
+                <apiLng>127.11867</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 서신동 258번지 </apiNewAddress>
+                <apiOldAddress>전라북도 전주시 완산구 전룡로 53-3 (서신동)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>34</apiSid>
+                <apiTel>070-8111-0942</apiTel>
+            </list>
+            <list>
+                <apiDongName>헬로펫 애견용품 할인마트</apiDongName>
+                <apiLat>35.833794</apiLat>
+                <apiLng>127.16269</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 인후동1가 848-1 </apiNewAddress>
+                <apiOldAddress>전라북도 전주시 덕진구 무삼지로 94 (인후동1가)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>35</apiSid>
+                <apiTel>-</apiTel>
+            </list>
+            <list>
+                <apiDongName>마카롱펫</apiDongName>
+                <apiLat>35.826994</apiLat>
+                <apiLng>127.16269</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 서신동 838번지 1층 </apiNewAddress>
+                <apiOldAddress>전라북도 전주시 완산구 서신로 19, 1층 (서신동)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>36</apiSid>
+                <apiTel>-</apiTel>
+            </list>
+            <list>
+                <apiDongName>낭만고양이</apiDongName>
+                <apiLat>35.808116</apiLat>
+                <apiLng>127.096782</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 효자동2가 1313-7번지 </apiNewAddress>
+                <apiOldAddress>전라북도 전주시 완산구 호암로 19, 105호 (효자동2가)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>37</apiSid>
+                <apiTel>063-224-4546</apiTel>
+            </list>
+            <list>
+                <apiDongName>해피애견타운</apiDongName>
+                <apiLat>35.805188</apiLat>
+                <apiLng>127.11631</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 효자동1가 445-1번지 </apiNewAddress>
+                <apiOldAddress>전라북도 전주시 완산구 거마평로 145 (효자동1가)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>38</apiSid>
+                <apiTel>-</apiTel>
+            </list>
+            <list>
+                <apiDongName>pet365</apiDongName>
+                <apiLat>35.813377</apiLat>
+                <apiLng>127.095217</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 효자동3가 1724-2번지 </apiNewAddress>
+                <apiOldAddress>전라북도 전주시 완산구 서원로 8 (효자동3가)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>39</apiSid>
+                <apiTel>-</apiTel>
+            </list>
+            <list>
+                <apiDongName>이쁘개해줄개</apiDongName>
+                <apiLat>35.861347</apiLat>
+                <apiLng>127.121112</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 송천동1가 486-56번지 </apiNewAddress>
+                <apiOldAddress>전라북도 전주시 덕진구 송천중앙로 161 (송천동1가)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>40</apiSid>
+                <apiTel>063-255-0123</apiTel>
+            </list>
+            <list>
+                <apiDongName>보석애견</apiDongName>
+                <apiLat>35.793331</apiLat>
+                <apiLng>127.131785</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 평화동1가 706-4번지 </apiNewAddress>
+                <apiOldAddress>전라북도 전주시 완산구 모악로 4749 (평화동1가, 송강부동산)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>41</apiSid>
+                <apiTel>063-221-1114</apiTel>
+            </list>
+            <list>
+                <apiDongName>유아독존</apiDongName>
+                <apiLat>35.834487</apiLat>
+                <apiLng>127.167774</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 우아동2가 561-7번지 </apiNewAddress>
+                <apiOldAddress>전라북도 전주시 덕진구 석소로 84 (우아동2가, 윤현빌딩)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>42</apiSid>
+                <apiTel>063-243-7100</apiTel>
+            </list>
+            <list>
+                <apiDongName>펫스토리</apiDongName>
+                <apiLat>35.831375</apiLat>
+                <apiLng>127.123137</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 서신동 773번지 </apiNewAddress>
+                <apiOldAddress>전라북도 전주시 완산구 백제대로 428 (서신동, 유디치과)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>43</apiSid>
+                <apiTel>063-252-0780</apiTel>
+            </list>
+            <list>
+                <apiDongName>블루독</apiDongName>
+                <apiLat>35.819285</apiLat>
+                <apiLng>127.117637</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 중화산동2가 755-10번지 </apiNewAddress>
+                <apiOldAddress>전라북도 전주시 완산구 효자로 293 (중화산동2가, 쌍용자동차)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>44</apiSid>
+                <apiTel>-</apiTel>
+            </list>
+            <list>
+                <apiDongName>쌍방울애견전시장</apiDongName>
+                <apiLat>35.834669</apiLat>
+                <apiLng>127.134921</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 금암동 461-9번지 </apiNewAddress>
+                <apiOldAddress>전라북도 전주시 덕진구 기린대로 353 (금암동, 코니문투어)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>45</apiSid>
+                <apiTel>063-254-5709</apiTel>
+            </list>
+            <list>
+                <apiDongName>닥터펫</apiDongName>
+                <apiLat>35.826877</apiLat>
+                <apiLng>127.123031</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 서신동 산 997-8번지 </apiNewAddress>
+                <apiOldAddress>전라북도 전주시 완산구 백제대로 378 (서신동)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>46</apiSid>
+                <apiTel>063-272-0075</apiTel>
+            </list>
+            <list>
+                <apiDongName>Lim`s</apiDongName>
+                <apiLat>35.809699</apiLat>
+                <apiLng>127.152044</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 서서학동 32-4번지 </apiNewAddress>
+                <apiOldAddress>'전라북도 전주시 완산구 서학로 23 (서서학동)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>47</apiSid>
+                <apiTel>-</apiTel>
+            </list>
+            <list>
+                <apiDongName>펫샵</apiDongName>
+                <apiLat>35.807696</apiLat>
+                <apiLng>127.116758</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 효자동1가 287-13번지 201호</apiNewAddress>
+                <apiOldAddress>전주시 완산구 거마평로 162, 201호(효자동1가)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>48</apiSid>
+                <apiTel>063-221-7582</apiTel>
+            </list>
+            <list>
+                <apiDongName>헬로펫</apiDongName>
+                <apiLat>35.795984</apiLat>
+                <apiLng>127.134755</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 평화동1가 710-4번지 </apiNewAddress>
+                <apiOldAddress>전라북도 전주시 완산구 장승배기로 200 (평화동1가, SC제일은행)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>49</apiSid>
+                <apiTel>063-222-2041</apiTel>
+            </list>
+            <list>
+                <apiDongName>코코애견샵</apiDongName>
+                <apiLat>35.853528</apiLat>
+                <apiLng>127.154232</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 우아동3가 602-9번지 </apiNewAddress>
+                <apiOldAddress>전라북도 전주시 덕진구 호성로 4 (우아동3가)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>50</apiSid>
+                <apiTel>-</apiTel>
+            </list>
+            <list>
+                <apiDongName>올리몰스 펫샵</apiDongName>
+                <apiLat>35.866268</apiLat>
+                <apiLng>127.121148</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 송천동1가 809-3번지 </apiNewAddress>
+                <apiOldAddress>전라북도 전주시 덕진구 송천중앙로 213 (송천동1가)</apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>51</apiSid>
+                <apiTel>063-275-7979</apiTel>
+            </list>
+            <list>
+                <apiDongName>DOG 똑똑</apiDongName>
+                <apiLat>35.821915</apiLat>
+                <apiLng>127.118292</apiLng>
+                <apiNewAddress>전라북도 전주시 완산구 중화산로 128, DOG 똑똑 (중화산동2가)</apiNewAddress>
+                <apiOldAddress>전라북도 전주시 완산구 중화산동2가 701-9 </apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>52</apiSid>
+                <apiTel>-</apiTel>
+            </list>
+            <list>
+                <apiDongName>뱅갈온니</apiDongName>
+                <apiLat>35.827072</apiLat>
+                <apiLng>127.168306</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 아중로 173, 대건빌딩 2층 (인후동1가)</apiNewAddress>
+                <apiOldAddress>전라북도 전주시 덕진구 인후동1가 920-5 </apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>53</apiSid>
+                <apiTel>-</apiTel>
+            </list>
+            <list>
+                <apiDongName>Idolls Ragdoll Cattery</apiDongName>
+                <apiLat>35.844097</apiLat>
+                <apiLng>127.153994</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 견훤로 368 (우아동3가)</apiNewAddress>
+                <apiOldAddress>전라북도 전주시 덕진구 우아동3가 749-57 </apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>54</apiSid>
+                <apiTel>-</apiTel>
+            </list>
+            <list>
+                <apiDongName>에이스 캣</apiDongName>
+                <apiLat>35.859534</apiLat>
+                <apiLng>127.118428</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 송천2길 26, 2층 (송천동1가)</apiNewAddress>
+                <apiOldAddress>전라북도 전주시 덕진구 송천동1가 417-11 </apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>55</apiSid>
+                <apiTel>-</apiTel>
+            </list>
+            <list>
+                <apiDongName>고양이 별</apiDongName>
+                <apiLat>35.839104</apiLat>
+                <apiLng>127.156389</apiLng>
+                <apiNewAddress>전라북도 전주시 덕진구 안골2길 5, 1층 (인후동1가)</apiNewAddress>
+                <apiOldAddress>전라북도 전주시 덕진구 인후동1가 756-7 </apiOldAddress>
+                <apiRegDate>2020-08-31</apiRegDate>
+                <apiSid>56</apiSid>
+                <apiTel>-</apiTel>
+            </list>
+        </data>
+    </body>
+</rfcOpenApi>

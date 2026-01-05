@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+    <header>
+        <reqNo>16533440</reqNo>
+        <resultCode>00</resultCode>
+        <resultMsg>NORMAL SERVICE.</resultMsg>
+    </header>
+    <body>
+        <items>
+            <item>
+                <desertionNo>445464202202151</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/04/202207111007131_s.jpg</filename>
+                <happenDt>20220711</happenDt>
+                <happenPlace>송천동 롯데마트</happenPlace>
+                <kindCd>[고양이] 페르시안-페르시안 친칠라</kindCd>
+                <colorCd>회색</colorCd>
+                <age>2021(년생)</age>
+                <weight>2(Kg)</weight>
+                <noticeNo>전북-전주-2022-00832</noticeNo>
+                <noticeSdt>20220711</noticeSdt>
+                <noticeEdt>20220720</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/04/202207111007131.jpg</popfile>
+                <processState>보호중</processState>
+                <sexCd>F</sexCd>
+                <neuterYn>U</neuterYn>
+                <specialMark>예쁨</specialMark>
+                <careNm>하나동물병원</careNm>
+                <careTel>063-253-5677</careTel>
+                <careAddr>전라북도 전주시 덕진구 덕진동2가 송천중앙로 17 (덕진동2가) </careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202202001</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/04/202206201606408_s.jpg</filename>
+                <happenDt>20220620</happenDt>
+                <happenPlace>감수길71</happenPlace>
+                <kindCd>[개] 믹스견</kindCd>
+                <colorCd>흰색</colorCd>
+                <age>2022(년생)</age>
+                <weight>3(Kg)</weight>
+                <noticeNo>전북-전주-2022-00750</noticeNo>
+                <noticeSdt>20220620</noticeSdt>
+                <noticeEdt>20220629</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/04/202206201606408.jpg</popfile>
+                <processState>종료(입양)</processState>
+                <sexCd>F</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>2개월 추정</specialMark>
+                <careNm>하나동물병원</careNm>
+                <careTel>063-253-5677</careTel>
+                <careAddr>전라북도 전주시 덕진구 덕진동2가 송천중앙로 17 (덕진동2가) </careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202202000</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/05/20220620120607_s.jpg</filename>
+                <happenDt>20220620</happenDt>
+                <happenPlace>매봉6길13</happenPlace>
+                <kindCd>[개] 보스턴 테리어</kindCd>
+                <colorCd>검정/흰색</colorCd>
+                <age>2015(년생)</age>
+                <weight>8(Kg)</weight>
+                <noticeNo>전북-전주-2022-00749</noticeNo>
+                <noticeSdt>20220620</noticeSdt>
+                <noticeEdt>20220629</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/05/20220620120607.jpg</popfile>
+                <processState>종료(반환)</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>몸여러군데 쓸림자국있음/교통사고추정 </specialMark>
+                <careNm>하나동물병원</careNm>
+                <careTel>063-253-5677</careTel>
+                <careAddr>전라북도 전주시 덕진구 덕진동2가 송천중앙로 17 (덕진동2가) </careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202201846</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/05/202206070906673_s.jpg</filename>
+                <happenDt>20220607</happenDt>
+                <happenPlace>송천더블파크 부근</happenPlace>
+                <kindCd>[고양이] 한국 고양이</kindCd>
+                <colorCd>흰색/검정</colorCd>
+                <age>2022(년생)</age>
+                <weight>0.3(Kg)</weight>
+                <noticeNo>전북-전주-2022-00681</noticeNo>
+                <noticeSdt>20220607</noticeSdt>
+                <noticeEdt>20220616</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/05/202206070906673.jpg</popfile>
+                <processState>종료(입양)</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>귀여움,눈치쟁이</specialMark>
+                <careNm>하나동물병원</careNm>
+                <careTel>063-253-5677</careTel>
+                <careAddr>전라북도 전주시 덕진구 덕진동2가 송천중앙로 17 (덕진동2가) </careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202201845</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/05/20220607090692_s.jpg</filename>
+                <happenDt>20220607</happenDt>
+                <happenPlace>송천더블파크 부근</happenPlace>
+                <kindCd>[고양이] 한국 고양이</kindCd>
+                <colorCd>흰색/검정</colorCd>
+                <age>2022(년생)</age>
+                <weight>0.3(Kg)</weight>
+                <noticeNo>전북-전주-2022-00680</noticeNo>
+                <noticeSdt>20220607</noticeSdt>
+                <noticeEdt>20220616</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/05/20220607090692.jpg</popfile>
+                <processState>종료(입양)</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>귀여움 소심쟁이</specialMark>
+                <careNm>하나동물병원</careNm>
+                <careTel>063-253-5677</careTel>
+                <careAddr>전라북도 전주시 덕진구 덕진동2가 송천중앙로 17 (덕진동2가) </careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202201844</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/05/202206070906602_s.jpg</filename>
+                <happenDt>20220607</happenDt>
+                <happenPlace>송천더블파크 부근</happenPlace>
+                <kindCd>[고양이] 한국 고양이</kindCd>
+                <colorCd>치즈태비</colorCd>
+                <age>2022(년생)</age>
+                <weight>0.3(Kg)</weight>
+                <noticeNo>전북-전주-2022-00679</noticeNo>
+                <noticeSdt>20220607</noticeSdt>
+                <noticeEdt>20220616</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/05/202206070906602.jpg</popfile>
+                <processState>종료(자연사)</processState>
+                <sexCd>F</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>귀여움</specialMark>
+                <careNm>하나동물병원</careNm>
+                <careTel>063-253-5677</careTel>
+                <careAddr>전라북도 전주시 덕진구 덕진동2가 송천중앙로 17 (덕진동2가) </careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202201843</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/05/202206070906652_s.jpg</filename>
+                <happenDt>20220607</happenDt>
+                <happenPlace>송천더블파크 부근</happenPlace>
+                <kindCd>[고양이] 한국 고양이</kindCd>
+                <colorCd>치즈태비</colorCd>
+                <age>2022(년생)</age>
+                <weight>0.3(Kg)</weight>
+                <noticeNo>전북-전주-2022-00678</noticeNo>
+                <noticeSdt>20220607</noticeSdt>
+                <noticeEdt>20220616</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/05/202206070906652.jpg</popfile>
+                <processState>종료(자연사)</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>귀여움</specialMark>
+                <careNm>하나동물병원</careNm>
+                <careTel>063-253-5677</careTel>
+                <careAddr>전라북도 전주시 덕진구 덕진동2가 송천중앙로 17 (덕진동2가) </careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202201842</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/05/202206070906556_s.jpg</filename>
+                <happenDt>20220607</happenDt>
+                <happenPlace>송천더블파크 부근</happenPlace>
+                <kindCd>[고양이] 한국 고양이</kindCd>
+                <colorCd>치즈태비</colorCd>
+                <age>2022(년생)</age>
+                <weight>0.3(Kg)</weight>
+                <noticeNo>전북-전주-2022-00677</noticeNo>
+                <noticeSdt>20220607</noticeSdt>
+                <noticeEdt>20220616</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/05/202206070906556.jpg</popfile>
+                <processState>종료(자연사)</processState>
+                <sexCd>F</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>귀여움</specialMark>
+                <careNm>하나동물병원</careNm>
+                <careTel>063-253-5677</careTel>
+                <careAddr>전라북도 전주시 덕진구 덕진동2가 송천중앙로 17 (덕진동2가) </careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202201782</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/05/202206021606708_s.jpg</filename>
+                <happenDt>20220602</happenDt>
+                <happenPlace>진북동 우성 아파트 부근</happenPlace>
+                <kindCd>[고양이] 한국 고양이</kindCd>
+                <colorCd>삼색</colorCd>
+                <age>2022(년생)</age>
+                <weight>0.3(Kg)</weight>
+                <noticeNo>전북-전주-2022-00647</noticeNo>
+                <noticeSdt>20220602</noticeSdt>
+                <noticeEdt>20220613</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/05/202206021606708.jpg</popfile>
+                <processState>종료(자연사)</processState>
+                <sexCd>F</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>사람손을탐/차량보닛안에서구조</specialMark>
+                <careNm>하나동물병원</careNm>
+                <careTel>063-253-5677</careTel>
+                <careAddr>전라북도 전주시 덕진구 덕진동2가 송천중앙로 17 (덕진동2가) </careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202201698</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/04/202205261705133_s.jpg</filename>
+                <happenDt>20220526</happenDt>
+                <happenPlace>아중리체련공원부근</happenPlace>
+                <kindCd>[고양이] 믹스묘</kindCd>
+                <colorCd>회색갈색</colorCd>
+                <age>2022(년생)</age>
+                <weight>2(Kg)</weight>
+                <noticeNo>전북-전주-2022-00611</noticeNo>
+                <noticeSdt>20220526</noticeSdt>
+                <noticeEdt>20220607</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/04/202205261705133.jpg</popfile>
+                <processState>종료(입양)</processState>
+                <sexCd>F</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>사람을잘따름</specialMark>
+                <careNm>하나동물병원</careNm>
+                <careTel>063-253-5677</careTel>
+                <careAddr>전라북도 전주시 덕진구 덕진동2가 송천중앙로 17 (덕진동2가) </careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+        </items>
+        <numOfRows>10</numOfRows>
+        <pageNo>1</pageNo>
+        <totalCount>56</totalCount>
+    </body>
+</response>

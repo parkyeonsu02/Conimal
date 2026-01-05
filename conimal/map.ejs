@@ -1,0 +1,632 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>다양한 이미지 마커 표시하기</title>
+  <style>
+    .center {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      z-index: 1000;
+      transition: opacity ease 0.4s;
+    }
+
+    .loader {
+      border: 8px solid #f3f3f3;
+      border-radius: 50%;
+      border-top: 8px solid #3498db;
+      width: 120px;
+      height: 120px;
+      -webkit-animation: spin 2s linear infinite;
+      /* Safari */
+      animation: spin 2s linear infinite;
+    }
+
+    /* Safari */
+    @-webkit-keyframes spin {
+      0% {
+        -webkit-transform: rotate(0deg);
+      }
+
+      100% {
+        -webkit-transform: rotate(360deg);
+      }
+    }
+
+    @keyframes spin {
+      0% {
+        transform: rotate(0deg);
+      }
+
+      100% {
+        transform: rotate(360deg);
+      }
+    }
+
+    #mapwrap {
+      position: relative;
+      overflow: hidden;
+    }
+
+    .category,
+    .category * {
+      margin: 0;
+      padding: 0;
+      color: #000;
+    }
+
+    .category {
+      position: absolute;
+      overflow: hidden;
+      top: 130px;
+      left: 10px;
+      width: 500px;
+      height: 120px;
+      z-index: 10;
+      border: 1px solid black;
+      font-family: "Malgun Gothic", "맑은 고딕", sans-serif;
+      font-size: 12px;
+      text-align: center;
+      background-color: #fff;
+    }
+
+    .category .menu_selected {
+      background: #ff5f4a;
+      color: #fff;
+      border-left: 1px solid #915b2f;
+      border-right: 1px solid #915b2f;
+      margin: 0 -1px;
+    }
+
+    .category li {
+      list-style: none;
+      float: left;
+      width: 100px;
+      height: 120px;
+      padding-top: 5px;
+      cursor: pointer;
+    }
+
+    .category .ico_comm {
+      display: block;
+      margin: 0;
+      width: 80px;
+      height: 80px;
+      margin-left: 8px;
+      margin-bottom: 5px;
+    }
+
+    .category .ico_hospital {
+      background: url("http://localhost:3000/static/assets/hospital.png");
+    }
+
+    .category .ico_medic {
+      background: url("http://localhost:3000/static/assets/medic.png");
+    }
+
+    .category .ico_registration {
+      background: url("http://localhost:3000/static/assets/registor.png");
+    }
+
+    .category .ico_seller {
+      background: url("http://localhost:3000/static/assets/seller.png");
+    }
+
+    .category .ico_protertor {
+      background: url("http://localhost:3000/static/assets/protertor.png");
+    }
+  </style>
+</head>
+
+<body>
+  <div id="mapwrap">
+    <!-- 지도가 표시될 div -->
+    <div id="map" style="width:100%;height:350px;"></div>
+    <!-- 지도 위에 표시될 마커 카테고리 -->
+    <div class="category">
+      <ul>
+        <li id="coffeeMenu" onclick="changeMarker('haspital')">
+          <span class="ico_comm ico_haspital"></span>
+          동물병원
+        </li>
+        <li id="storeMenu" onclick="changeMarker('medic')">
+          <span class="ico_comm ico_medic"></span>
+          동물약국
+        </li>
+        <li id="carparkMenu" onclick="changeMarker('seller')">
+          <span class="ico_comm ico_seller"></span>
+          동물용품판매점
+        </li>
+        <li id="carparkMenu" onclick="changeMarker('registor')">
+          <span class="ico_comm ico_registor"></span>
+          동물등록대행업소
+        </li>
+        <li id="carparkMenu" onclick="changeMarker('protertor')">
+          <span class="ico_comm ico_protertor"></span>
+          동물보호소
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=86441f3cdf8fd70c77981dd139b592ca"></script>
+  <script>
+    var mapContainer = document.getElementById('map'), // 지도를 표시할 div  
+      mapOption = {
+        center: new kakao.maps.LatLng(35.9473428, 126.681225), // 지도의 중심좌표
+        level: 6 // 지도의 확대 레벨
+      };
+
+    var map = new kakao.maps.Map(mapContainer, mapOption); // 지도를 생성합니다
+
+    var positions4 = [
+      {
+        title: '홍 동물병원',
+        latlng: new kakao.maps.LatLng(35.8115026, 127.1492217)
+      },
+
+      {
+        title: '초원 동물병원',
+        latlng: new kakao.maps.LatLng(35.8280955, 127.1430733)
+      },
+
+      {
+        title: '푸른 동물병원',
+        latlng: new kakao.maps.LatLng(35.8718194, 127.0761458)
+      },
+
+      {
+        title: '박영재 동물병원',
+        latlng: new kakao.maps.LatLng(35.8106328, 127.1492167)
+      },
+
+      {
+        title: '아리랑 동물병원',
+        latlng: new kakao.maps.LatLng(35.8116313, 127.1264926)
+      },
+
+      {
+        title: '효자 동물병원',
+        latlng: new kakao.maps.LatLng(35.8039057, 127.123711)
+      },
+
+      {
+        title: '우리 동물병원',
+        latlng: new kakao.maps.LatLng(35.806179, 127.1194238)
+      },
+
+      {
+        title: '서신 동물병원',
+        latlng: new kakao.maps.LatLng(35.8283931, 127.1155727)
+      },
+
+      {
+        title: '동부 동물병원',
+        latlng: new kakao.maps.LatLng(35.8210609, 127.1520825)
+      }
+    ];
+
+
+    var positions3 = [
+      {
+        title: '전주김제완주축협',
+        latlng: new kakao.maps.LatLng(35.8569009, 127.1563581)
+      },
+
+      {
+        title: '건강솔약국',
+        latlng: new kakao.maps.LatLng(35.8410878, 127.1212301)
+      },
+
+      {
+        title: '송천사랑약국',
+        latlng: new kakao.maps.LatLng(35.863116, 127.1148376)
+      },
+
+      {
+        title: '다은 약국',
+        latlng: new kakao.maps.LatLng(35.86287, 127.11458)
+      },
+
+      {
+        title: '명문 약국',
+        latlng: new kakao.maps.LatLng(35.81009, 127.11509)
+      },
+
+      {
+        title: '명 약국',
+        latlng: new kakao.maps.LatLng(35.82514, 127.15302)
+      },
+
+      {
+        title: '서신 약국',
+        latlng: new kakao.maps.LatLng(35.82774, 127.12042)
+      },
+
+      {
+        title: '전주종로중화산점약국',
+        latlng: new kakao.maps.LatLng(35.81640, 127.12337)
+      },
+
+      {
+        title: '전주플러스약국',
+        latlng: new kakao.maps.LatLng(35.84753, 127.15285)
+      },
+
+      {
+        title: '아중녹십자약국',
+        latlng: new kakao.maps.LatLng(35.83117, 127.16835)
+      },
+
+      {
+        title: '리더스종합약국',
+        latlng: new kakao.maps.LatLng(35.83387, 127.12043)
+      }
+    ];
+
+
+    var positions2 = [
+
+      {
+        title: '애견나라',
+        latlng: new kakao.maps.LatLng(35.82496, 127.15696)
+      },
+      {
+        title: '완산애견',
+        latlng: new kakao.maps.LatLng(35.80972, 127.13423)
+      },
+      {
+        title: '벤지애견',
+        latlng: new kakao.maps.LatLng(35.82074, 127.14868)
+      },
+      {
+        title: '짱구와동팔이',
+        latlng: new kakao.maps.LatLng(35.81701, 127.14021)
+      },
+      {
+        title: '화이트애견',
+        latlng: new kakao.maps.LatLng(35.82496, 127.15696)
+      },
+
+      {
+        title: '서신동물병원',
+        latlng: new kakao.maps.LatLng(35.83142, 127.11660)
+      },
+
+      {
+        title: '다사랑애견',
+        latlng: new kakao.maps.LatLng(35.7957267, 127.1338893)
+      },
+
+      {
+        title: '하나애견샵',
+        latlng: new kakao.maps.LatLng(35.8489968, 127.1185277)
+      },
+
+      {
+        title: '주주애견',
+        latlng: new kakao.maps.LatLng(35.8352965, 127.1011586)
+      },
+
+      {
+        title: '가나다애견',
+        latlng: new kakao.maps.LatLng(35.7985516, 127.1224419)
+      }
+
+    ];
+
+
+
+    // 전북 축제 마커를 표시할 위치와 내용을 가지고 있는 객체 배열입니다 
+    var positions = [
+      {
+        title: '닥터펫동물병원',
+        latlng: new kakao.maps.LatLng(35.82323, 127.12289)
+      },
+      {
+        title: '동부동물병원',
+        latlng: new kakao.maps.LatLng(35.82717, 127.14530)
+      },
+      {
+        title: '늘푸른동물병원',
+        latlng: new kakao.maps.LatLng(35.81907, 127.14843)
+      },
+      {
+        title: '프렌즈동물병원',
+        latlng: new kakao.maps.LatLng(35.80000, 127.11705)
+      },
+      {
+        title: '수종합24시동물병원',
+        latlng: new kakao.maps.LatLng(35.82323, 127.12289)
+      },
+      {
+        title: '서신동물병원',
+        latlng: new kakao.maps.LatLng(35.83123, 127.11577)
+      },
+      {
+        title: '박영재동물병원',
+        latlng: new kakao.maps.LatLng(35.80630, 127.14960)
+      },
+      {
+        title: '아리랑동물병원',
+        latlng: new kakao.maps.LatLng(35.81162, 127.12642)
+      },
+      {
+        title: '사랑플러스동물병원',
+        latlng: new kakao.maps.LatLng(35.87330, 127.07552)
+      },
+      {
+        title: '푸른하늘동물병원',
+        latlng: new kakao.maps.LatLng(35.76490, 127.12300)
+      },
+      {
+        title: '펫동물병원',
+        latlng: new kakao.maps.LatLng(35.80697, 127.11633)
+      },
+      {
+        title: '우리동물병원',
+        latlng: new kakao.maps.LatLng(35.80592, 127.12076)
+      }
+    ];
+
+    var positions5 = [
+      {
+        title: '프렌즈동물병원',
+        latlng: new kakao.maps.LatLng(35.80592, 127.12076)
+      },
+      {
+        title: '수동물병원',
+        latlng: new kakao.maps.LatLng(35.80592, 127.12076)
+      },
+      {
+        title: '21세기동물병원',
+        latlng: new kakao.maps.LatLng(35.80592, 127.12076)
+      },
+      {
+        title: '행복한동물병원',
+        latlng: new kakao.maps.LatLng(35.82717, 127.14530)
+      },
+      {
+        title: '아프리카동물병원',
+        latlng: new kakao.maps.LatLng(35.82717, 127.14530)
+      },
+      {
+        title: '서신동물병원',
+        latlng: new kakao.maps.LatLng(35.83123, 127.11577)
+      },
+      {
+        title: '박영재동물병원',
+        latlng: new kakao.maps.LatLng(35.80630, 127.14960)
+      },
+      {
+        title: '동부동물병원',
+        latlng: new kakao.maps.LatLng(35.82717, 127.14530)
+      },
+      {
+        title: '하나동물병원',
+        latlng: new kakao.maps.LatLng(35.82717, 127.14530)
+      },
+      {
+        title: '늘푸른동물병원',
+        latlng: new kakao.maps.LatLng(35.8185301, 127.1405419)
+      },
+      {
+        title: '효자동물병원',
+        latlng: new kakao.maps.LatLng(35.8041729, 127.1237115)
+      },
+      {
+        title: '우리동물병원',
+        latlng: new kakao.maps.LatLng(35.80592, 127.12076)
+      }
+    ];
+    var imageSrc = "http://localhost:3000/static/assets/seller.png";
+
+    var imageSrc2 = "http://localhost:3000/static/assets/registor.png";
+
+    var imageSrc3 = "http://localhost:3000/static/assets/medic.png"
+
+    var imageSrc4 = "http://localhost:3000/static/assets/hospital.png"
+
+    var imageSrc5 = "http://localhost:3000/static/assets/protertor.png"
+
+
+    // 축제
+    for (var i = 0; i < positions.length; i++) {
+
+
+      // 마커 이미지의 이미지 크기 입니다
+      var imageSize = new kakao.maps.Size(40, 46);
+
+      // 마커 이미지를 생성합니다    
+      var markerImage = new kakao.maps.MarkerImage(imageSrc, imageSize);
+
+
+      // 마커를 생성합니다
+      var marker = new kakao.maps.Marker({
+        map: map, // 마커를 표시할 지도
+        position: positions[i].latlng, // 마커의 위치
+        image: markerImage
+      });
+
+      // 마커에 표시할 인포윈도우를 생성합니다 
+      var infowindow = new kakao.maps.InfoWindow({
+        content: positions[i].content // 인포윈도우에 표시할 내용
+      });
+      kakao.maps.event.addListener(marker, 'mouseover', makeOverListener(map, marker, infowindow));
+      kakao.maps.event.addListener(marker, 'mouseout', makeOutListener(infowindow));
+    }
+
+    // 숙박
+    for (var i = 0; i < positions2.length; i++) {
+
+      // 마커 이미지의 이미지 크기 입니다
+      var imageSize = new kakao.maps.Size(40, 46);
+
+      // 마커 이미지를 생성합니다    
+      var markerImage = new kakao.maps.MarkerImage(imageSrc2, imageSize);
+
+
+      // 마커를 생성합니다
+      var marker = new kakao.maps.Marker({
+        map: map, // 마커를 표시할 지도
+        position: positions2[i].latlng, // 마커의 위치
+        image: markerImage
+      });
+
+      // 마커에 표시할 인포윈도우를 생성합니다 
+      var infowindow = new kakao.maps.InfoWindow({
+        content: positions2[i].content // 인포윈도우에 표시할 내용
+      });
+      kakao.maps.event.addListener(marker, 'mouseover', makeOverListener(map, marker, infowindow));
+      kakao.maps.event.addListener(marker, 'mouseout', makeOutListener(infowindow));
+    }
+    // 문화재
+    for (var i = 0; i < positions3.length; i++) {
+
+      // 마커 이미지의 이미지 크기 입니다
+      var imageSize = new kakao.maps.Size(40, 46);
+
+      // 마커 이미지를 생성합니다    
+      var markerImage = new kakao.maps.MarkerImage(imageSrc3, imageSize);
+
+
+      // 마커를 생성합니다
+      var marker = new kakao.maps.Marker({
+        map: map, // 마커를 표시할 지도
+        position: positions3[i].latlng, // 마커의 위치
+        image: markerImage
+      });
+
+      // 마커에 표시할 인포윈도우를 생성합니다 
+      var infowindow = new kakao.maps.InfoWindow({
+        content: positions3[i].content // 인포윈도우에 표시할 내용
+      });
+      kakao.maps.event.addListener(marker, 'mouseover', makeOverListener(map, marker, infowindow));
+      kakao.maps.event.addListener(marker, 'mouseout', makeOutListener(infowindow));
+    }
+
+    //관광지
+    for (var i = 0; i < positions4.length; i++) {
+
+
+      // 마커 이미지의 이미지 크기 입니다
+      var imageSize = new kakao.maps.Size(40, 40);
+
+      // 마커 이미지를 생성합니다    
+      var markerImage = new kakao.maps.MarkerImage(imageSrc4, imageSize);
+
+
+      // 마커를 생성합니다
+      var marker = new kakao.maps.Marker({
+        map: map, // 마커를 표시할 지도
+        position: positions4[i].latlng, // 마커의 위치
+        image: markerImage
+      });
+
+      // 마커에 표시할 인포윈도우를 생성합니다 
+      var infowindow = new kakao.maps.InfoWindow({
+        content: positions4[i].content // 인포윈도우에 표시할 내용
+      });
+      kakao.maps.event.addListener(marker, 'mouseover', makeOverListener(map, marker, infowindow));
+      kakao.maps.event.addListener(marker, 'mouseout', makeOutListener(infowindow));
+    }
+
+    //관광지
+    for (var i = 0; i < positions5.length; i++) {
+
+
+      // 마커 이미지의 이미지 크기 입니다
+      var imageSize = new kakao.maps.Size(40, 40);
+
+      // 마커 이미지를 생성합니다    
+      var markerImage = new kakao.maps.MarkerImage(imageSrc5, imageSize);
+
+
+      // 마커를 생성합니다
+      var marker = new kakao.maps.Marker({
+        map: map, // 마커를 표시할 지도
+        position: positions5[i].latlng, // 마커의 위치
+        image: markerImage
+      });
+
+      // 마커에 표시할 인포윈도우를 생성합니다 
+      var infowindow = new kakao.maps.InfoWindow({
+        content: positions5[i].content // 인포윈도우에 표시할 내용
+      });
+      kakao.maps.event.addListener(marker, 'mouseover', makeOverListener(map, marker, infowindow));
+      kakao.maps.event.addListener(marker, 'mouseout', makeOutListener(infowindow));
+    }
+
+    // 인포윈도우를 표시하는 클로저를 만드는 함수입니다 
+    function makeOverListener(map, marker, infowindow) {
+      return function () {
+        infowindow.open(map, marker);
+      };
+    }
+
+    // 인포윈도우를 닫는 클로저를 만드는 함수입니다 
+    function makeOutListener(infowindow) {
+      return function () {
+        infowindow.close();
+      };
+    }
+
+    if (navigator.geolocation) {
+
+      // GeoLocation을 이용해서 접속 위치를 얻어옵니다
+      navigator.geolocation.getCurrentPosition(function (position) {
+
+        var lat = position.coords.latitude, // 위도
+          lon = position.coords.longitude; // 경도
+
+        var locPosition = new kakao.maps.LatLng(lat, lon), // 마커가 표시될 위치를 geolocation으로 얻어온 좌표로 생성합니다
+          message = '<div style="padding:5px;">현재위치</div>'; // 인포윈도우에 표시될 내용입니다
+
+        // 마커와 인포윈도우를 표시합니다
+        displayMarker(locPosition, message);
+
+      });
+
+    } else { // HTML5의 GeoLocation을 사용할 수 없을때 마커 표시 위치와 인포윈도우 내용을 설정합니다
+
+      var locPosition = new kakao.maps.LatLng(35.9473428, 126.681225),
+        message = 'geolocation을 사용할수 없어요..'
+
+      displayMarker(locPosition, message);
+    }
+
+    // 지도에 마커와 인포윈도우를 표시하는 함수입니다
+    function displayMarker(locPosition, message) {
+
+      // 마커를 생성합니다
+      var marker = new kakao.maps.Marker({
+        map: map,
+        position: locPosition
+      });
+
+      var iwContent = message, // 인포윈도우에 표시할 내용
+        iwRemoveable = true;
+
+      // 인포윈도우를 생성합니다
+      var infowindow = new kakao.maps.InfoWindow({
+        content: iwContent,
+        removable: iwRemoveable
+      });
+
+      // 인포윈도우를 마커위에 표시합니다 
+      infowindow.open(map, marker);
+
+      // 지도 중심좌표를 접속위치로 변경합니다
+      map.setCenter(locPosition);
+    }
+
+
+
+
+  </script>
+</body>
+
+</html>

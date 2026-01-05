@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+    <header>
+        <reqNo>16338857</reqNo>
+        <resultCode>00</resultCode>
+        <resultMsg>NORMAL SERVICE.</resultMsg>
+    </header>
+    <body>
+        <items>
+            <item>
+                <desertionNo>445464202202138</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/04/202207081607928_s.jpg</filename>
+                <happenDt>20220708</happenDt>
+                <happenPlace>서신동 서일성당 인근</happenPlace>
+                <kindCd>[개] 페키니즈</kindCd>
+                <colorCd>검정</colorCd>
+                <age>2019(년생)</age>
+                <weight>4.9(Kg)</weight>
+                <noticeNo>전북-전주-2022-00819</noticeNo>
+                <noticeSdt>20220708</noticeSdt>
+                <noticeEdt>20220718</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/04/202207081607928.jpg</popfile>
+                <processState>종료(반환)</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>Y</neuterYn>
+                <specialMark>자가미용 되어있음</specialMark>
+                <careNm>아프리카동물병원</careNm>
+                <careTel>063-247-8875</careTel>
+                <careAddr>전라북도 전주시 덕진구 인후동1가 928-1</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202202016</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/04/20220621150655_s.jpg</filename>
+                <happenDt>20220621</happenDt>
+                <happenPlace>기린대로 165-1</happenPlace>
+                <kindCd>[고양이] 한국 고양이</kindCd>
+                <colorCd>갈색, 검정</colorCd>
+                <age>2022(년생)</age>
+                <weight>0.3(Kg)</weight>
+                <noticeNo>전북-전주-2022-00756</noticeNo>
+                <noticeSdt>20220621</noticeSdt>
+                <noticeEdt>20220630</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/04/20220621150655.jpg</popfile>
+                <processState>종료(자연사)</processState>
+                <sexCd>F</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>후지마비, 상처 심함</specialMark>
+                <careNm>아프리카동물병원</careNm>
+                <careTel>063-247-8875</careTel>
+                <careAddr>전라북도 전주시 덕진구 인후동1가 928-1</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202201738</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/04/202205301305376_s.jpg</filename>
+                <happenDt>20220530</happenDt>
+                <happenPlace>정언신로 42</happenPlace>
+                <kindCd>[고양이] 한국 고양이</kindCd>
+                <colorCd>회색, 검정</colorCd>
+                <age>2022(년생)</age>
+                <weight>0.3(Kg)</weight>
+                <noticeNo>전북-전주-2022-00625</noticeNo>
+                <noticeSdt>20220530</noticeSdt>
+                <noticeEdt>20220608</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/04/202205301305376.jpg</popfile>
+                <processState>종료(자연사)</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>경계심 많음</specialMark>
+                <careNm>아프리카동물병원</careNm>
+                <careTel>063-247-8875</careTel>
+                <careAddr>전라북도 전주시 덕진구 인후동1가 928-1</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202201545</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/05/202205161605296_s.jpg</filename>
+                <happenDt>20220516</happenDt>
+                <happenPlace>인후동 롯데아파트 인근</happenPlace>
+                <kindCd>[개] 믹스견</kindCd>
+                <colorCd>흰색</colorCd>
+                <age>2018(년생)</age>
+                <weight>6.9(Kg)</weight>
+                <noticeNo>전북-전주시-2022-00542</noticeNo>
+                <noticeSdt>20220516</noticeSdt>
+                <noticeEdt>20220525</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/05/202205161605296.jpg</popfile>
+                <processState>종료(입양)</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>몸통부위 가위로 털 잘려있음</specialMark>
+                <careNm>아프리카동물병원</careNm>
+                <careTel>063-247-8875</careTel>
+                <careAddr>전라북도 전주시 덕진구 인후동1가 928-1</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202201544</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/05/202205161605717_s.jpg</filename>
+                <happenDt>20220516</happenDt>
+                <happenPlace>금암동 720-26</happenPlace>
+                <kindCd>[개] 시츄</kindCd>
+                <colorCd>흰색, 갈색</colorCd>
+                <age>2015(년생)</age>
+                <weight>4.1(Kg)</weight>
+                <noticeNo>전북-전주시-2022-00541</noticeNo>
+                <noticeSdt>20220516</noticeSdt>
+                <noticeEdt>20220525</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/05/202205161605717.jpg</popfile>
+                <processState>종료(반환)</processState>
+                <sexCd>F</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>성격 온순암</specialMark>
+                <careNm>아프리카동물병원</careNm>
+                <careTel>063-247-8875</careTel>
+                <careAddr>전라북도 전주시 덕진구 인후동1가 928-1</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202201297</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/04/202204272104627_s.jpg</filename>
+                <happenDt>20220427</happenDt>
+                <happenPlace>서학1길 31</happenPlace>
+                <kindCd>[고양이] 한국 고양이</kindCd>
+                <colorCd>검정</colorCd>
+                <age>2022(년생)</age>
+                <weight>0.2(Kg)</weight>
+                <noticeNo>전북-전주시-2022-00420</noticeNo>
+                <noticeSdt>20220427</noticeSdt>
+                <noticeEdt>20220506</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/04/202204272104627.jpg</popfile>
+                <processState>종료(자연사)</processState>
+                <sexCd>Q</sexCd>
+                <neuterYn>U</neuterYn>
+                <specialMark>태어난지 얼마안됨</specialMark>
+                <careNm>아프리카동물병원</careNm>
+                <careTel>063-247-8875</careTel>
+                <careAddr>전라북도 전주시 덕진구 인후동1가 928-1</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202201286</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/04/202204271604936_s.jpg</filename>
+                <happenDt>20220427</happenDt>
+                <happenPlace>팔달로 340-37</happenPlace>
+                <kindCd>[개] 요크셔 테리어</kindCd>
+                <colorCd>갈색</colorCd>
+                <age>2013(년생)</age>
+                <weight>5.4(Kg)</weight>
+                <noticeNo>전북-전주시-2022-00413</noticeNo>
+                <noticeSdt>20220427</noticeSdt>
+                <noticeEdt>20220506</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/04/202204271604936.jpg</popfile>
+                <processState>종료(반환)</processState>
+                <sexCd>F</sexCd>
+                <neuterYn>U</neuterYn>
+                <specialMark>비만, 얼굴부위 털 짧음</specialMark>
+                <careNm>아프리카동물병원</careNm>
+                <careTel>063-247-8875</careTel>
+                <careAddr>전라북도 전주시 덕진구 인후동1가 928-1</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202201272</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/04/20220426090443_s.jpg</filename>
+                <happenDt>20220426</happenDt>
+                <happenPlace>전라감영4길 7-3</happenPlace>
+                <kindCd>[개] 믹스견</kindCd>
+                <colorCd>흰색</colorCd>
+                <age>2022(년생)</age>
+                <weight>3.1(Kg)</weight>
+                <noticeNo>전북-전주시-2022-00407</noticeNo>
+                <noticeSdt>20220426</noticeSdt>
+                <noticeEdt>20220506</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/04/20220426090443.jpg</popfile>
+                <processState>종료(반환)</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>피부질환, 많이 야윔</specialMark>
+                <careNm>아프리카동물병원</careNm>
+                <careTel>063-247-8875</careTel>
+                <careAddr>전라북도 전주시 덕진구 인후동1가 928-1</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202201238</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/04/202204241104918[1]_s.jpg</filename>
+                <happenDt>20220424</happenDt>
+                <happenPlace>전주역 인근</happenPlace>
+                <kindCd>[개] 비숑 프리제</kindCd>
+                <colorCd>흰색</colorCd>
+                <age>2022(년생)</age>
+                <weight>1.7(Kg)</weight>
+                <noticeNo>전북-전주시-2022-00390</noticeNo>
+                <noticeSdt>20220424</noticeSdt>
+                <noticeEdt>20220503</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/04/202204241104918[1].jpg</popfile>
+                <processState>종료(반환)</processState>
+                <sexCd>F</sexCd>
+                <neuterYn>U</neuterYn>
+                <specialMark>미용관리 되어있고, 야윔</specialMark>
+                <careNm>아프리카동물병원</careNm>
+                <careTel>063-247-8875</careTel>
+                <careAddr>전라북도 전주시 덕진구 인후동1가 928-1</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+            <item>
+                <desertionNo>445464202201198</desertionNo>
+                <filename>http://www.animal.go.kr/files/shelter/2022/04/202204211704465_s.jpg</filename>
+                <happenDt>20220421</happenDt>
+                <happenPlace>인후동 부영5차 아파트 인근</happenPlace>
+                <kindCd>[개] 말티즈</kindCd>
+                <colorCd>흰색</colorCd>
+                <age>2019(년생)</age>
+                <weight>3.8(Kg)</weight>
+                <noticeNo>전북-전주시-2022-00376</noticeNo>
+                <noticeSdt>20220421</noticeSdt>
+                <noticeEdt>20220502</noticeEdt>
+                <popfile>http://www.animal.go.kr/files/shelter/2022/04/202204211704465.jpg</popfile>
+                <processState>종료(반환)</processState>
+                <sexCd>M</sexCd>
+                <neuterYn>N</neuterYn>
+                <specialMark>중성화 수술 안되어있음</specialMark>
+                <careNm>아프리카동물병원</careNm>
+                <careTel>063-247-8875</careTel>
+                <careAddr>전라북도 전주시 덕진구 인후동1가 928-1</careAddr>
+                <orgNm>전라북도 전주시</orgNm>
+                <chargeNm>김상찬</chargeNm>
+                <officetel>063-281-5277</officetel>
+            </item>
+        </items>
+        <numOfRows>10</numOfRows>
+        <pageNo>1</pageNo>
+        <totalCount>23</totalCount>
+    </body>
+</response>
